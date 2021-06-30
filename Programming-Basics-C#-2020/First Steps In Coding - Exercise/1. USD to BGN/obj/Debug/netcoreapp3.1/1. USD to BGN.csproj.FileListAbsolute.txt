@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\bin\Debug\netcoreapp3.1\1. USD to BGN.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\1. USD to BGN\obj\Debug\netcoreapp3.1\1. USD to BGN.genruntimeconfig.cache

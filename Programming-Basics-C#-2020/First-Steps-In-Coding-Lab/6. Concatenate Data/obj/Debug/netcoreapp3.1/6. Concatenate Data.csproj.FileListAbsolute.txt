@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\bin\Debug\netcoreapp3.1\6. Concatenate Data.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\6. Concatenate Data\obj\Debug\netcoreapp3.1\6. Concatenate Data.genruntimeconfig.cache

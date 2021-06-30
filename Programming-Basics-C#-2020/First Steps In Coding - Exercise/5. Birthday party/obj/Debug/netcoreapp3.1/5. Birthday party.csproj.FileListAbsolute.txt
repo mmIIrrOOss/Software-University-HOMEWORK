@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\bin\Debug\netcoreapp3.1\5. Birthday party.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\5. Birthday party\obj\Debug\netcoreapp3.1\5. Birthday party.genruntimeconfig.cache

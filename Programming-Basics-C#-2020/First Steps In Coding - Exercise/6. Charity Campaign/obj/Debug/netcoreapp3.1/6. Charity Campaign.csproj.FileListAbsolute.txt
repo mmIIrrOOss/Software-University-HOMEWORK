@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\bin\Debug\netcoreapp3.1\6. Charity Campaign.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Exercise\6. Charity Campaign\obj\Debug\netcoreapp3.1\6. Charity Campaign.genruntimeconfig.cache

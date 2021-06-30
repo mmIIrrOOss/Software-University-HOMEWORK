@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\bin\Debug\netcoreapp3.1\Hello SoftUni.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\Hello SoftUni\obj\Debug\netcoreapp3.1\Hello SoftUni.genruntimeconfig.cache

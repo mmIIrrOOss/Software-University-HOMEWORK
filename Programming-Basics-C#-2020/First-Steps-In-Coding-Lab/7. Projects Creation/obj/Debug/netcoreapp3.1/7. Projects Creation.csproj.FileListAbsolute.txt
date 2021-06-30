@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.exe
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.deps.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.runtimeconfig.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\bin\Debug\netcoreapp3.1\7. Projects Creation.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.AssemblyInfo.cs
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.dll
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.pdb
+D:\proekti c#\SoftUni\First Steps In Coding - Lab\7. Projects Creation\obj\Debug\netcoreapp3.1\7. Projects Creation.genruntimeconfig.cache
