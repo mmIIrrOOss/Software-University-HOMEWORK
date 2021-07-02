@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.exe
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.deps.json
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.runtimeconfig.json
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.dll
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\bin\Debug\netcoreapp3.1\1. Excellent Result.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.AssemblyInfo.cs
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.dll
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\1. Excellent Result\obj\Debug\netcoreapp3.1\1. Excellent Result.genruntimeconfig.cache

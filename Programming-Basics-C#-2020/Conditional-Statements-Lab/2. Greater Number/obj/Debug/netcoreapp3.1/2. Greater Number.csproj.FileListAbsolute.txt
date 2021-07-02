@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.exe
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.deps.json
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.runtimeconfig.json
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.dll
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\bin\Debug\netcoreapp3.1\2. Greater Number.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.AssemblyInfo.cs
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.dll
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\2. Greater Number\obj\Debug\netcoreapp3.1\2. Greater Number.genruntimeconfig.cache

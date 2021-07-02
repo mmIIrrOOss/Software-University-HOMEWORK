@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.exe
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.deps.json
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.runtimeconfig.json
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.dll
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\bin\Debug\netcoreapp3.1\7. Toy Shop.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.AssemblyInfo.cs
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.dll
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.pdb
+D:\proekti c#\SoftUni\1. Excellent Result\7. Toy Shop\obj\Debug\netcoreapp3.1\7. Toy Shop.genruntimeconfig.cache
