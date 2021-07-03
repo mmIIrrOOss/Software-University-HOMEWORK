@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.exe
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.deps.json
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.runtimeconfig.json
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.dll
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\bin\Debug\netcoreapp3.1\6. Godzilla vs. Kong.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.AssemblyInfo.cs
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.dll
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\6. Godzilla vs. Kong\obj\Debug\netcoreapp3.1\6. Godzilla vs. Kong.genruntimeconfig.cache

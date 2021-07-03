@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.exe
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.deps.json
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.runtimeconfig.json
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.dll
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\bin\Debug\netcoreapp3.1\5. Time + 15 Minutes.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.AssemblyInfo.cs
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.dll
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\5. Time + 15 Minutes\obj\Debug\netcoreapp3.1\5. Time + 15 Minutes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.exe
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.deps.json
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.runtimeconfig.json
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.dll
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\bin\Debug\netcoreapp3.1\4. Metric Converter.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.AssemblyInfo.cs
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.dll
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.genruntimeconfig.cache
+D:\proekti c#\SoftUni\ConsoleApp1\4. Metric Converter\obj\Debug\netcoreapp3.1\4. Metric Converter.csprojAssemblyReference.cache

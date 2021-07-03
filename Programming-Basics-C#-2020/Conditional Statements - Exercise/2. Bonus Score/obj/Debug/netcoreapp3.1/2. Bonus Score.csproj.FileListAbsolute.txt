@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.exe
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.deps.json
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.runtimeconfig.json
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.dll
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\bin\Debug\netcoreapp3.1\2. Bonus Score.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.AssemblyInfo.cs
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.dll
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\2. Bonus Score\obj\Debug\netcoreapp3.1\2. Bonus Score.genruntimeconfig.cache

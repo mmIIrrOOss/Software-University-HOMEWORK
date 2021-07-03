@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.exe
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.deps.json
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.runtimeconfig.json
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.dll
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\bin\Debug\netcoreapp3.1\1. Sum Seconds.pdb
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.dll
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.pdb
+D:\proekti c#\SoftUni\Conditional Statements - Exercise\1. Sum Seconds\obj\Debug\netcoreapp3.1\1. Sum Seconds.genruntimeconfig.cache

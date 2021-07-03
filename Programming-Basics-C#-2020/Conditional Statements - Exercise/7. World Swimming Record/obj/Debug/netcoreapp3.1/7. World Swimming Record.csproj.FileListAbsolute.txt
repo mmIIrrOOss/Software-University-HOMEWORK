@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.exe
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.deps.json
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.runtimeconfig.json
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.dll
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\bin\Debug\netcoreapp3.1\7. World Swimming Record.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.AssemblyInfo.cs
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.dll
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.pdb
+D:\proekti c#\SoftUni\ConsoleApp1\7. World Swimming Record\obj\Debug\netcoreapp3.1\7. World Swimming Record.genruntimeconfig.cache
