@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\bin\Debug\netcoreapp3.1\2.Weekend or Working Day.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\2.Weekend or Working Day\obj\Debug\netcoreapp3.1\2.Weekend or Working Day.genruntimeconfig.cache
