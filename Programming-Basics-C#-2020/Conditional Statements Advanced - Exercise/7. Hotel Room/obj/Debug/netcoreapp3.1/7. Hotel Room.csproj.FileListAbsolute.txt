@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.exe
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.deps.json
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.runtimeconfig.json
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.dll
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\bin\Debug\netcoreapp3.1\7. Hotel Room.pdb
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.dll
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.pdb
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.genruntimeconfig.cache
+D:\proekti c#\SoftUni\Solution1\7. Hotel Room\obj\Debug\netcoreapp3.1\7. Hotel Room.csprojAssemblyReference.cache
