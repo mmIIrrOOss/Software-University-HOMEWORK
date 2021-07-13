@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\bin\Debug\netcoreapp3.1\12. Even Number.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Lab\12. Even Number\obj\Debug\netcoreapp3.1\12. Even Number.genruntimeconfig.cache
