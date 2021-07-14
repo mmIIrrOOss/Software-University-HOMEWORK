@@ -1,0 +1,25 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\01. Ages\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.exe
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.deps.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\bin\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - Exercise\01. Ages\obj\Debug\netcoreapp3.1\01. Ages.genruntimeconfig.cache
