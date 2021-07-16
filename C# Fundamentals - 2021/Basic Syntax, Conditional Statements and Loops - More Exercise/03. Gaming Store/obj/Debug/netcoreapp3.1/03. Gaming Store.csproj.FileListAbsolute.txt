@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Basic Syntax, Conditional Statements and Loops - More Exercise\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.genruntimeconfig.cache
