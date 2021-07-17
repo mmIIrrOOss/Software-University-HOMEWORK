@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\04. Refactoring  Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring  Prime Checker.genruntimeconfig.cache

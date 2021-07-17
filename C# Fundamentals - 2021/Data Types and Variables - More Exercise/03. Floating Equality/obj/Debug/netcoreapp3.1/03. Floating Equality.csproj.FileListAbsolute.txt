@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.genruntimeconfig.cache

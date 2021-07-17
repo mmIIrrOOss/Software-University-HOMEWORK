@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\bin\Debug\netcoreapp3.1\From Left to the Right.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Data Types and Variables - More Exercise\From Left to the Right\obj\Debug\netcoreapp3.1\From Left to the Right.genruntimeconfig.cache
