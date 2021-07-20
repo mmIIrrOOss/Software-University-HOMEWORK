@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\bin\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Arrays - More Exercise\02. Pascal Triangle\obj\Debug\netcoreapp3.1\02. Pascal Triangle.genruntimeconfig.cache
