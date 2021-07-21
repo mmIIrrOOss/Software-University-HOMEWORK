@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\bin\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\01. Sign of Integer Numbers\obj\Debug\netcoreapp3.1\01. Sign of Integer Numbers.genruntimeconfig.cache

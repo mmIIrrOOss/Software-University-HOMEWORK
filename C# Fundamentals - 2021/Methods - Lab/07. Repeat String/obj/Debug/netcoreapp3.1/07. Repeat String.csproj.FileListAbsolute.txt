@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\bin\Debug\netcoreapp3.1\07. Repeat String.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Lab\07. Repeat String\obj\Debug\netcoreapp3.1\07. Repeat String.genruntimeconfig.cache
