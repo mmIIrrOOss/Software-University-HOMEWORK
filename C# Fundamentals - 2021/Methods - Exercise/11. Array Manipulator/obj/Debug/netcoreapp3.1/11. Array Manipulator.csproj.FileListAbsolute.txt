@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\bin\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - Exercise\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache
