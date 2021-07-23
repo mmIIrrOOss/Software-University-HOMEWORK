@@ -1,0 +1,12 @@
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.exe
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.deps.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Methods - More Exercise\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.genruntimeconfig.cache

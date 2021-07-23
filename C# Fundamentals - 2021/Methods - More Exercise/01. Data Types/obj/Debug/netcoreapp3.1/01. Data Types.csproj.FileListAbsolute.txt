@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Methods - More Exercise\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.genruntimeconfig.cache
