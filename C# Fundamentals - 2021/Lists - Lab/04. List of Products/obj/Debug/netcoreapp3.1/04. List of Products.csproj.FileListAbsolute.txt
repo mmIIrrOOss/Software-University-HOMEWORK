@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\bin\Debug\netcoreapp3.1\04. List of Products.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\04. List of Products\obj\Debug\netcoreapp3.1\04. List of Products.genruntimeconfig.cache

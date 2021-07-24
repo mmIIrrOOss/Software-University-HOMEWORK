@@ -1,0 +1,12 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\bin\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\05. Remove Negatives and Reverse\obj\Debug\netcoreapp3.1\05. Remove Negatives and Reverse.genruntimeconfig.cache

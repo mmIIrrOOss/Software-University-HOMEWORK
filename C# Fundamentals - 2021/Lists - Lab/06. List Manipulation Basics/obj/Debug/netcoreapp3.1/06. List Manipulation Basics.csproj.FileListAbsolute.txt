@@ -1,0 +1,13 @@
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.exe
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.deps.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.runtimeconfig.dev.json
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\bin\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csprojAssemblyReference.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfoInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.AssemblyInfo.cs
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.dll
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.pdb
+D:\proekti c#\SoftUni\Fundamentals - 2021\Lists - Lab\06. List Manipulation Basics\obj\Debug\netcoreapp3.1\06. List Manipulation Basics.genruntimeconfig.cache
