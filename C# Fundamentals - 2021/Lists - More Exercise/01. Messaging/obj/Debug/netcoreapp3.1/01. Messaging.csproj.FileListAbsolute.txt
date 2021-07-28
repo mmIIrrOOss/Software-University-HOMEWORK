@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.exe
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.deps.json
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.json
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.dll
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\bin\Debug\netcoreapp3.1\01. Messaging.pdb
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.dll
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.pdb
+C:\Users\User\source\repos\Lists - More Exercise\01. Messaging\obj\Debug\netcoreapp3.1\01. Messaging.genruntimeconfig.cache

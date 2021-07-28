@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.exe
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.deps.json
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.json
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.dll
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\bin\Debug\netcoreapp3.1\02. Car Race.pdb
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.dll
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.pdb
+C:\Users\User\source\repos\Lists - More Exercise\02. Car Race\obj\Debug\netcoreapp3.1\02. Car Race.genruntimeconfig.cache
