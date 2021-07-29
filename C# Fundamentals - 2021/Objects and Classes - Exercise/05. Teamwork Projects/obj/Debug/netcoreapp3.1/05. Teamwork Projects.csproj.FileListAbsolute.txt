@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+C:\Users\User\source\repos\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache
