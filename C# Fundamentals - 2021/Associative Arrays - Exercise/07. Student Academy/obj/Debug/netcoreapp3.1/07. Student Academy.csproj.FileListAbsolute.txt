@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csprojAssemblyReference.cache

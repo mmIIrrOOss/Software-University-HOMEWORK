@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.exe
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.deps.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.runtimeconfig.dev.json
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\bin\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.AssemblyInfo.cs
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.dll
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.pdb
+C:\Users\User\source\repos\Associative Arrays - Exercise\03. Legendary Farming\obj\Debug\netcoreapp3.1\03. Legendary Farming.genruntimeconfig.cache
