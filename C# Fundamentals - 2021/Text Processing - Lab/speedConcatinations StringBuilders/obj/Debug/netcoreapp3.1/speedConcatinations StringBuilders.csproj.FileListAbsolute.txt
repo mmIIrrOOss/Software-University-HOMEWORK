@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.exe
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.deps.json
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.runtimeconfig.json
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.dll
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\bin\Debug\netcoreapp3.1\speedConcatinations StringBuilders.pdb
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.AssemblyInfo.cs
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.dll
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.pdb
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.genruntimeconfig.cache
+C:\Users\User\source\repos\Text Processing - Lab\speedConcatinations StringBuilders\obj\Debug\netcoreapp3.1\speedConcatinations StringBuilders.csprojAssemblyReference.cache

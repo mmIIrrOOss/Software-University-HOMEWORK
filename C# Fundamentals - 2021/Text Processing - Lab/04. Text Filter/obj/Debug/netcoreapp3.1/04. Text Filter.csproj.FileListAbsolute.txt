@@ -1,0 +1,25 @@
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+C:\Users\User\source\repos\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.exe
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.deps.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\bin\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.AssemblyInfo.cs
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.dll
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.pdb
+D:\SoftUni\SoftUni\Fundamentals - 2021\Text Processing - Lab\04. Text Filter\obj\Debug\netcoreapp3.1\04. Text Filter.genruntimeconfig.cache
