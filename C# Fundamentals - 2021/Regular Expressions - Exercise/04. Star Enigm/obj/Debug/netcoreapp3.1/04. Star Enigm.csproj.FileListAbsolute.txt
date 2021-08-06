@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.exe
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.deps.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.dll
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\bin\Debug\netcoreapp3.1\04. Star Enigm.pdb
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.dll
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.pdb
+C:\Users\User\source\repos\Regular Expressions - Exercise\04. Star Enigm\obj\Debug\netcoreapp3.1\04. Star Enigm.genruntimeconfig.cache

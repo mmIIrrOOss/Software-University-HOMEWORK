@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.exe
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.deps.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.runtimeconfig.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.runtimeconfig.dev.json
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.dll
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\bin\Debug\netcoreapp3.1\03. SoftUni Bar Incom.pdb
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.AssemblyInfo.cs
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.dll
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.pdb
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.genruntimeconfig.cache
+C:\Users\User\source\repos\Regular Expressions - Exercise\03. SoftUni Bar Incom\obj\Debug\netcoreapp3.1\03. SoftUni Bar Incom.csprojAssemblyReference.cache
