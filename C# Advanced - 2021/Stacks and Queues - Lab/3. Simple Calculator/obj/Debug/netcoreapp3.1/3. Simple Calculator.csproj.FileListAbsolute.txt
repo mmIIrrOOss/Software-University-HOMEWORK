@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.exe
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.dll
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\bin\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.dll
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.pdb
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Lab\3. Simple Calculator\obj\Debug\netcoreapp3.1\3. Simple Calculator.genruntimeconfig.cache
