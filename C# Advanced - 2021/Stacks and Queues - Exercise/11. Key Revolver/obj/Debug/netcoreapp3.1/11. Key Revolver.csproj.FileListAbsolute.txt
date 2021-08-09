@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.exe
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.dll
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\bin\Debug\netcoreapp3.1\11. Key Revolver.pdb
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.dll
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.pdb
+D:\SoftUni\SoftUni\C# Advanced\Stacks and Queues - Exercise\11. Key Revolver\obj\Debug\netcoreapp3.1\11. Key Revolver.genruntimeconfig.cache
