@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\bin\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.genruntimeconfig.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\02.AverageStudentGrades\obj\Debug\netcoreapp3.1\02.AverageStudentGrades.csprojAssemblyReference.cache

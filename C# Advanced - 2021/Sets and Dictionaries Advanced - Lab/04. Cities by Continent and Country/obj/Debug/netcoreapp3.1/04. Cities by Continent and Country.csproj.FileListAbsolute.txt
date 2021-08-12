@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\bin\Debug\netcoreapp3.1\04. Cities by Continent and Country.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\04. Cities by Continent and Country\obj\Debug\netcoreapp3.1\04. Cities by Continent and Country.genruntimeconfig.cache

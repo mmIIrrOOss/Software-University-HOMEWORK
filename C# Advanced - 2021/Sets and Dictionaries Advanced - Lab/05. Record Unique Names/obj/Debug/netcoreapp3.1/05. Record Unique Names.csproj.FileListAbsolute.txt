@@ -1,0 +1,12 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\bin\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\05. Record Unique Names\obj\Debug\netcoreapp3.1\05. Record Unique Names.genruntimeconfig.cache

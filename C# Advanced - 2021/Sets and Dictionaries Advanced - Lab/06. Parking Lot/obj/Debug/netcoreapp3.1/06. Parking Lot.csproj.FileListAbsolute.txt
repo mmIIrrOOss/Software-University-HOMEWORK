@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.genruntimeconfig.cache

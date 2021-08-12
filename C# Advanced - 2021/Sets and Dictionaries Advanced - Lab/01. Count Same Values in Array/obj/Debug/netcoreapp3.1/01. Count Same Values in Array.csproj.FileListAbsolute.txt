@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\bin\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\01. Count Same Values in Array\obj\Debug\netcoreapp3.1\01. Count Same Values in Array.genruntimeconfig.cache

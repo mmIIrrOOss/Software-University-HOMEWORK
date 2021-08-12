@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+D:\SoftUni\SoftUni\C# Advanced\Solution1\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.genruntimeconfig.cache
