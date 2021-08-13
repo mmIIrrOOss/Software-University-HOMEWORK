@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.exe
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp3.1\08. Ranking.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.genruntimeconfig.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp3.1\08. Ranking.csprojAssemblyReference.cache

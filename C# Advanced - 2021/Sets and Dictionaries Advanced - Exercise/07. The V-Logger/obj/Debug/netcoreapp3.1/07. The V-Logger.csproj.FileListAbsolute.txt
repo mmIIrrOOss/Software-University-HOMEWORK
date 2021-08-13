@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.exe
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp3.1\07. The V-Logger.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp3.1\07. The V-Logger.genruntimeconfig.cache

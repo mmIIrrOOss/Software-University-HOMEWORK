@@ -1,0 +1,12 @@
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.exe
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\bin\Debug\netcoreapp3.1\06.Wardrope.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.dll
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.pdb
+D:\SoftUni\SoftUni\C# Advanced\Sets and Dictionaries Advanced - Exercise\06.Wardrope\obj\Debug\netcoreapp3.1\06.Wardrope.genruntimeconfig.cache
