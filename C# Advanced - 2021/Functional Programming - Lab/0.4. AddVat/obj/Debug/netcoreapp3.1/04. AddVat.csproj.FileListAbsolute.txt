@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.exe
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.deps.json
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.runtimeconfig.json
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.runtimeconfig.dev.json
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.dll
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\bin\Debug\netcoreapp3.1\04. AddVat.pdb
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.AssemblyInfo.cs
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.dll
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.pdb
+C:\Users\User\source\repos\Functional Programming - Lab\0.4. AddVat\obj\Debug\netcoreapp3.1\04. AddVat.genruntimeconfig.cache
