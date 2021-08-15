@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.exe
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.dll
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\bin\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.dll
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.pdb
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\07. Predicate For Names\obj\Debug\netcoreapp3.1\07. Predicate For Names.genruntimeconfig.cache

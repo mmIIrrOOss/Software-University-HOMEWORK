@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+D:\SoftUni\SoftUni\C# Advanced\Functional Programming - Exercise\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache
