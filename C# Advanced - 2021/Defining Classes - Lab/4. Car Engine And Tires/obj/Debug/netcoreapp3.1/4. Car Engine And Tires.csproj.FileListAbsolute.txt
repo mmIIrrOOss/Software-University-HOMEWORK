@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.exe
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.deps.json
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.runtimeconfig.dev.json
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.dll
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\bin\Debug\netcoreapp3.1\4. Car Engine And Tires.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.dll
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.pdb
+C:\Users\User\source\repos\Defining Classes - Lab\4. Car Engine And Tires\obj\Debug\netcoreapp3.1\4. Car Engine And Tires.genruntimeconfig.cache
