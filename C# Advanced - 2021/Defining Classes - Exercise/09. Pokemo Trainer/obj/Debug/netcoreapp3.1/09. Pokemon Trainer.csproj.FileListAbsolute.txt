@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.runtimeconfig.dev.json
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\bin\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\09. Pokemo Trainer\obj\Debug\netcoreapp3.1\09. Pokemon Trainer.genruntimeconfig.cache

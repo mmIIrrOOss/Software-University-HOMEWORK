@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.exe
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.deps.json
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.json
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.runtimeconfig.dev.json
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\bin\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.AssemblyInfo.cs
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.dll
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.pdb
+C:\Users\User\source\repos\Defining Classes - Exercise\07. Raw Data\obj\Debug\netcoreapp3.1\07. Raw Data.genruntimeconfig.cache
