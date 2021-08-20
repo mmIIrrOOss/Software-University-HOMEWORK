@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.exe
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.deps.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\01. Box.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\01. Box.genruntimeconfig.cache

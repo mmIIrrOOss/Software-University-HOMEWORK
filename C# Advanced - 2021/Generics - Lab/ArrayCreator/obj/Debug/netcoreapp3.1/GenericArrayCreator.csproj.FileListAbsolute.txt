@@ -1,0 +1,13 @@
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.exe
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.deps.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\bin\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csprojAssemblyReference.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\ArrayCreator\obj\Debug\netcoreapp3.1\GenericArrayCreator.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.exe
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.deps.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.runtimeconfig.dev.json
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\bin\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfoInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.AssemblyInfo.cs
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.csproj.CoreCompileInputs.cache
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.dll
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.pdb
+D:\SoftUni\SoftUni\C# Advanced - 2021\Generics - Lab\01. Box\obj\Debug\netcoreapp3.1\BoxOfT.genruntimeconfig.cache
