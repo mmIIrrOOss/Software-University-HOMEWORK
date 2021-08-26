@@ -1,0 +1,12 @@
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.exe
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.deps.json
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.runtimeconfig.json
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.dll
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp3.1\03. Validation.pdb
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.dll
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.pdb
+D:\SoftUni\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp3.1\03. Validation.genruntimeconfig.cache
