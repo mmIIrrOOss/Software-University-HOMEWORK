@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.exe
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.deps.json
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.runtimeconfig.json
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.dll
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\bin\Debug\netcoreapp3.1\Is Balanced Numbers.pdb
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.dll
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.pdb
+D:\SoftUni\C# OOP\Encapsulation - Exercise\Is Balanced Numbers\obj\Debug\netcoreapp3.1\Is Balanced Numbers.genruntimeconfig.cache
