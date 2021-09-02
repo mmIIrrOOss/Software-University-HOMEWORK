@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.exe
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.deps.json
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.runtimeconfig.json
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.dll
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\bin\Debug\netcoreapp3.1\02.Multiple Implementation.pdb
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.dll
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.pdb
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.genruntimeconfig.cache
+D:\SoftUni\C# OOP\Interfaces and Abstraction - Exercise\02.Multiple Implementation\obj\Debug\netcoreapp3.1\02.Multiple Implementation.csprojAssemblyReference.cache
