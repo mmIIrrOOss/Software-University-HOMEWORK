@@ -1,0 +1,12 @@
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.exe
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.deps.json
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.runtimeconfig.json
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.dll
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\bin\Debug\netcoreapp3.1\02. Animals.pdb
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.dll
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.pdb
+D:\SoftUni\C# OOP\Polymorphism - Lab\02. Animals\obj\Debug\netcoreapp3.1\02. Animals.genruntimeconfig.cache
