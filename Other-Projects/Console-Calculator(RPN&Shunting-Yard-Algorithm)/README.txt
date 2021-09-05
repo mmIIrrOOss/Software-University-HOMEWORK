@@ -1,0 +1,1 @@
+This calculator uses Reverse Polish Notation plus Shunting-yard algorithm
