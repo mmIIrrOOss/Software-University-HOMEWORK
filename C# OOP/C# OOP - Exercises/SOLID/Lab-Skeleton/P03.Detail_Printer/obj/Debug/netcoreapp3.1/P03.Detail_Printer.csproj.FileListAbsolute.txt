@@ -1,0 +1,26 @@
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUni\C# OOP\Solid-Principles\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache

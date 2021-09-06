@@ -1,0 +1,13 @@
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.exe
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.deps.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.runtimeconfig.dev.json
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\bin\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csprojAssemblyReference.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfoInputs.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.AssemblyInfo.cs
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.dll
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.pdb
+D:\SoftUni\C# OOP\C# OOP - Exercises\SOLID\Lab-Skeleton\P04.Recharge\obj\Debug\netcoreapp3.1\P04.Recharge.genruntimeconfig.cache
