@@ -1,0 +1,45 @@
+﻿
+@model List<TV>
+
+<h1>TVs</h1>
+<div>
+    <div class="row">
+        @foreach (var TV in Model)
+        {
+
+            <div class="col-md-4">
+                <div class="row">
+                    <h1> @TV.Name</h1>
+                </div>
+                <div class="row">
+                    <a href="/Televisions/Details/@TV.Id ">
+                        <img src="@TV.Image" width="300" height="300"></img>
+                    </a>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <form asp-action="Create"
+                              asp-controller="Televisions"
+                              method="get">
+                            
+                            <button type="submit" class="btn btn-primary">Create</button>
+                        </form>
+                    </div>
+                    <div class="col-md-6">
+                        <form asp-action="Delete"
+                              asp-controller="Televisions"
+                              method="delete">
+                            <input type="hidden"
+                                   name="Id"
+                                   value="@TV.Id" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+</div>
+
+
