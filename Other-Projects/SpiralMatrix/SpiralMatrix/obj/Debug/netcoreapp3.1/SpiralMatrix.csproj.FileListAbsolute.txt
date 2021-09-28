@@ -1,0 +1,14 @@
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.exe
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.deps.json
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.json
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.runtimeconfig.dev.json
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.dll
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\bin\Debug\netcoreapp3.1\SpiralMatrix.pdb
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.AssemblyReference.cache
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfoInputs.cache
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.AssemblyInfo.cs
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.csproj.CoreCompileInputs.cache
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.dll
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.pdb
+D:\SoftUni\DRUGI\SpiralMatrix\SpiralMatrix\obj\Debug\netcoreapp3.1\SpiralMatrix.genruntimeconfig.cache
