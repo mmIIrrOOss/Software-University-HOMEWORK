@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Odd-Lines", "Streams, Files and Directories - Lab\01.Odd-Lines.csproj", "{8114F150-16CC-4978-8FC8-05F7C91A15D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Line-Numbers", "0.2.Odd Lines\02.Line-Numbers.csproj", "{5EA3209D-1178-486F-8A7A-ACB98C035A16}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Word-Count", "03.Word-Count\03.Word-Count.csproj", "{931040BE-2F83-4DCB-B6B9-CD27A49EC72E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.MergFiles", "0.4MergFiles\04.MergFiles.csproj", "{654505CD-64C8-40A1-944F-10DDB4C28AA5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SliceAFile", "05.SliceAFile\05.SliceAFile.csproj", "{798680A4-C65C-4AD8-B3F1-FF6FE744593E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.FolderSize", "06.FolderSize\06.FolderSize.csproj", "{B97E3D52-A22B-4679-8BD8-0127E5C1C7A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warning--Virus-Delete-File", "Warning--Virus-Delete-File\Warning--Virus-Delete-File.csproj", "{F5F8530E-0509-482B-8B44-182B3CD775BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8114F150-16CC-4978-8FC8-05F7C91A15D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8114F150-16CC-4978-8FC8-05F7C91A15D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8114F150-16CC-4978-8FC8-05F7C91A15D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8114F150-16CC-4978-8FC8-05F7C91A15D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA3209D-1178-486F-8A7A-ACB98C035A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA3209D-1178-486F-8A7A-ACB98C035A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA3209D-1178-486F-8A7A-ACB98C035A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA3209D-1178-486F-8A7A-ACB98C035A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{931040BE-2F83-4DCB-B6B9-CD27A49EC72E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931040BE-2F83-4DCB-B6B9-CD27A49EC72E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931040BE-2F83-4DCB-B6B9-CD27A49EC72E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931040BE-2F83-4DCB-B6B9-CD27A49EC72E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654505CD-64C8-40A1-944F-10DDB4C28AA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654505CD-64C8-40A1-944F-10DDB4C28AA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654505CD-64C8-40A1-944F-10DDB4C28AA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654505CD-64C8-40A1-944F-10DDB4C28AA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{798680A4-C65C-4AD8-B3F1-FF6FE744593E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798680A4-C65C-4AD8-B3F1-FF6FE744593E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798680A4-C65C-4AD8-B3F1-FF6FE744593E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798680A4-C65C-4AD8-B3F1-FF6FE744593E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B97E3D52-A22B-4679-8BD8-0127E5C1C7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B97E3D52-A22B-4679-8BD8-0127E5C1C7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B97E3D52-A22B-4679-8BD8-0127E5C1C7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B97E3D52-A22B-4679-8BD8-0127E5C1C7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5F8530E-0509-482B-8B44-182B3CD775BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F8530E-0509-482B-8B44-182B3CD775BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F8530E-0509-482B-8B44-182B3CD775BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F8530E-0509-482B-8B44-182B3CD775BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5D0C9D8-260F-404C-A165-CD4CFC4C3808}
+	EndGlobalSection
+EndGlobal

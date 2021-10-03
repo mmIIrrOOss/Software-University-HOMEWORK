@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\bin\Debug\netcoreapp3.1\04.MergFiles.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.4MergFiles\obj\Debug\netcoreapp3.1\04.MergFiles.genruntimeconfig.cache

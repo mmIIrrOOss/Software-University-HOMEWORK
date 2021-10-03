@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\0.1.Odd-Lines.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\0.1.Odd-Lines.genruntimeconfig.cache

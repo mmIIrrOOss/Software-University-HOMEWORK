@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\bin\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\Streams, Files and Directories - Lab\obj\Debug\netcoreapp3.1\Streams, Files and Directories - Lab.genruntimeconfig.cache

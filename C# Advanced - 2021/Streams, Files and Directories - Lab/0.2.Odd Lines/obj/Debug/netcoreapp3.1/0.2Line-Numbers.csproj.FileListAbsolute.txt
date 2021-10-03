@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\bin\Debug\netcoreapp3.1\0.2Line-Numbers.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\0.2.Odd Lines\obj\Debug\netcoreapp3.1\0.2Line-Numbers.csproj.AssemblyReference.cache

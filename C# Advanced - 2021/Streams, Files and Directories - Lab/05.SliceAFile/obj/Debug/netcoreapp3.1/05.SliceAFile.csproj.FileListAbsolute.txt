@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\bin\Debug\netcoreapp3.1\05.SliceAFile.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\05.SliceAFile\obj\Debug\netcoreapp3.1\05.SliceAFile.genruntimeconfig.cache

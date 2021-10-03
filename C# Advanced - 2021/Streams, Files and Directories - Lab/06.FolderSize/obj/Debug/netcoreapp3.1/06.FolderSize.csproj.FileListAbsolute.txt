@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.exe
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.deps.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\bin\Debug\netcoreapp3.1\06.FolderSize.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.dll
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.pdb
+D:\SoftUni\C# Advanced - 2021\Streams, Files and Directories - Lab\06.FolderSize\obj\Debug\netcoreapp3.1\06.FolderSize.genruntimeconfig.cache
