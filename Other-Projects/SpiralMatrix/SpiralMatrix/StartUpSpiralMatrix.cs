@@ -2,10 +2,12 @@
 namespace SpiralMatrix
 {
     using System;
+   
     class StartUpSpiralMatrix
     {
         static void Main()
         {
+           
             int size = int.Parse(Console.ReadLine());
             int[,] matrix = new int[size, size];
             int row = 0;
