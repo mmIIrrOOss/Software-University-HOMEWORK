@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\bin\Debug\netcoreapp3.1\SnakedGame.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\SnakeGame\SnakeGame\obj\Debug\netcoreapp3.1\SnakedGame.csproj.AssemblyReference.cache
