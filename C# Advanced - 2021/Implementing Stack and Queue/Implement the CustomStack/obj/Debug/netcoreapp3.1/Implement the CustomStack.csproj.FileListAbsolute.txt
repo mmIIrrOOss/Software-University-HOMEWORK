@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\bin\Debug\netcoreapp3.1\Implement the CustomStack.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implement the CustomStack\obj\Debug\netcoreapp3.1\Implement the CustomStack.genruntimeconfig.cache
