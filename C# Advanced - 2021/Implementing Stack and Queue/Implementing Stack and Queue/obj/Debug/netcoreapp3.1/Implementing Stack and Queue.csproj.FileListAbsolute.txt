@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\netcoreapp3.1\Implementing Stack and Queue.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\netcoreapp3.1\Implementing Stack and Queue.genruntimeconfig.cache
