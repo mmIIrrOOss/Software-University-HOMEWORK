@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\bin\Debug\netcoreapp3.1\03.Word-Count.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\03.Word-Count\obj\Debug\netcoreapp3.1\03.Word-Count.genruntimeconfig.cache

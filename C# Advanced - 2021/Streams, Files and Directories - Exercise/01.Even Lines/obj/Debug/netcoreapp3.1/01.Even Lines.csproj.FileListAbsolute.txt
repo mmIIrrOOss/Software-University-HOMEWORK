@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\bin\Debug\netcoreapp3.1\01.Even Lines.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\01.Even Lines\obj\Debug\netcoreapp3.1\01.Even Lines.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\bin\Debug\netcoreapp3.1\06.Zip and Extract.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\06.Zip and Extract\obj\Debug\netcoreapp3.1\06.Zip and Extract.genruntimeconfig.cache

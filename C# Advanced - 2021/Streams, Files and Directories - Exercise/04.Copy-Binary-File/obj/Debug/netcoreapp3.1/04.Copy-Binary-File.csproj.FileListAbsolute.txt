@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\bin\Debug\netcoreapp3.1\04.Copy-Binary-File.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\04.Copy-Binary-File\obj\Debug\netcoreapp3.1\04.Copy-Binary-File.genruntimeconfig.cache

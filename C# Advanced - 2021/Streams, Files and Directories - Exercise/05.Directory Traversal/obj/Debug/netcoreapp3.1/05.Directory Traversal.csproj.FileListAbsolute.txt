@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\bin\Debug\netcoreapp3.1\05.Directory Traversal.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Streams, Files and Directories - Exercise\05.Directory Traversal\obj\Debug\netcoreapp3.1\05.Directory Traversal.genruntimeconfig.cache
