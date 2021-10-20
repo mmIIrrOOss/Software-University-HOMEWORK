@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\bin\Debug\netcoreapp3.1\03.Comparable-Book.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\03.Comparable-Book\obj\Debug\netcoreapp3.1\03.Comparable-Book.genruntimeconfig.cache

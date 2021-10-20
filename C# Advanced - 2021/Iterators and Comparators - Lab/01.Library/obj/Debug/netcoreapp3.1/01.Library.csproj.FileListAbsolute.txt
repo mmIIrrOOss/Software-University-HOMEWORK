@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\bin\Debug\netcoreapp3.1\01.Library.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\01.Library\obj\Debug\netcoreapp3.1\01.Library.genruntimeconfig.cache

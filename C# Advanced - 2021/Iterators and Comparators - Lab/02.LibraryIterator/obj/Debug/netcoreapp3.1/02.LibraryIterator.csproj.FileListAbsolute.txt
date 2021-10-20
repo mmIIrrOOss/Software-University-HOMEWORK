@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\bin\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Lab\02.LibraryIterator\obj\Debug\netcoreapp3.1\02.LibraryIterator.genruntimeconfig.cache
