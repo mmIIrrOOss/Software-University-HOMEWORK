@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\bin\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\ConsoleApp1\obj\Debug\netcoreapp3.1\01.ListyIterator.genruntimeconfig.cache

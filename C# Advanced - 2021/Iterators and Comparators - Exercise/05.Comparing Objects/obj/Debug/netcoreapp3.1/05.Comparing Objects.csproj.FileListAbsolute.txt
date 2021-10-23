@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\bin\Debug\netcoreapp3.1\05.Comparing Objects.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\05.Comparing Objects\obj\Debug\netcoreapp3.1\05.Comparing Objects.genruntimeconfig.cache

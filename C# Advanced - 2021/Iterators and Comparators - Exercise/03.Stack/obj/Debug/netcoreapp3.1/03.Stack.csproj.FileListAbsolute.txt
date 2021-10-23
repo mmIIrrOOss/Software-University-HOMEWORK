@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\bin\Debug\netcoreapp3.1\03.Stack.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\03.Stack\obj\Debug\netcoreapp3.1\03.Stack.genruntimeconfig.cache

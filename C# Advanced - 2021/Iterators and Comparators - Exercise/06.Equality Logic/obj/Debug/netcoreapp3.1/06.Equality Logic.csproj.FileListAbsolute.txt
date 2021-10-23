@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\bin\Debug\netcoreapp3.1\06.Equality Logic.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Iterators and Comparators - Exercise\06.Equality Logic\obj\Debug\netcoreapp3.1\06.Equality Logic.genruntimeconfig.cache
