@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\RecursionDemo.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\RecursionDemo.genruntimeconfig.cache

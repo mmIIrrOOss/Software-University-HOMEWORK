@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\bin\Debug\netcoreapp3.1\Recursion-Demo.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\RecursionDemo\obj\Debug\netcoreapp3.1\Recursion-Demo.csproj.AssemblyReference.cache
