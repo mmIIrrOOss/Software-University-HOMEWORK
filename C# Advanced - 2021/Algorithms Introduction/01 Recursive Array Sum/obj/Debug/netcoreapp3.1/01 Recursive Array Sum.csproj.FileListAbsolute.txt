@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\bin\Debug\netcoreapp3.1\01 Recursive Array Sum.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\01 Recursive Array Sum\obj\Debug\netcoreapp3.1\01 Recursive Array Sum.genruntimeconfig.cache
