@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\bin\Debug\netcoreapp3.1\02.Recursive-Factoriel.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\02.Recursive-Factoriel\obj\Debug\netcoreapp3.1\02.Recursive-Factoriel.genruntimeconfig.cache
