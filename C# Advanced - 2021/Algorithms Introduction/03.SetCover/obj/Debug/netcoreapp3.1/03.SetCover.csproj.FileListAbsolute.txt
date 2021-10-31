@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\bin\Debug\netcoreapp3.1\03.SetCover.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\03.SetCover\obj\Debug\netcoreapp3.1\03.SetCover.genruntimeconfig.cache
