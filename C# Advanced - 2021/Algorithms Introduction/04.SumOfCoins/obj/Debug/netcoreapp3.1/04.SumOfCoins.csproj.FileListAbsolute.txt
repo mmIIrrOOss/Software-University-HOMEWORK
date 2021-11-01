@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\bin\Debug\netcoreapp3.1\04.SumOfCoins.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.genruntimeconfig.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\04.SumOfCoins\obj\Debug\netcoreapp3.1\04.SumOfCoins.csproj.AssemblyReference.cache
