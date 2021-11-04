@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\bin\Debug\netcoreapp3.1\BinarySearch -Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BinarySearch-Algorithm\obj\Debug\netcoreapp3.1\BinarySearch -Algorithm.genruntimeconfig.cache
