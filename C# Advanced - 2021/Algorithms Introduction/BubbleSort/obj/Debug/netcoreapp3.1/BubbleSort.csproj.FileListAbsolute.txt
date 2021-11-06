@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\bin\Debug\netcoreapp3.1\BubbleSort.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\BubbleSort\obj\Debug\netcoreapp3.1\BubbleSort.genruntimeconfig.cache
