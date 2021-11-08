@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\bin\Debug\netcoreapp3.1\LinearSearch.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\LinearSearch\obj\Debug\netcoreapp3.1\LinearSearch.genruntimeconfig.cache
