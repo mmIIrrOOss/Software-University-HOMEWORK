@@ -1,0 +1,14 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\bin\Debug\netcoreapp3.1\MergeSort-Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.csproj.AssemblyReference.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\MergeSort-Algorithm\obj\Debug\netcoreapp3.1\MergeSort-Algorithm.genruntimeconfig.cache
