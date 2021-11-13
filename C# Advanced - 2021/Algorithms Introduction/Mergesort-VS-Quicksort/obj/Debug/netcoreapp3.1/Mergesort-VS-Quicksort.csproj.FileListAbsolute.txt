@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\bin\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\Mergesort-VS-Quicksort\obj\Debug\netcoreapp3.1\Mergesort-VS-Quicksort.genruntimeconfig.cache
