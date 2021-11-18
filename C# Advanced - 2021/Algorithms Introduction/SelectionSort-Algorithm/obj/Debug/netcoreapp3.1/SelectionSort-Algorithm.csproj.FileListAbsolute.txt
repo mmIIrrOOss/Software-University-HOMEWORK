@@ -1,0 +1,13 @@
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.exe
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.deps.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.runtimeconfig.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.runtimeconfig.dev.json
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\bin\Debug\netcoreapp3.1\SelectionSort-Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.AssemblyInfoInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.AssemblyInfo.cs
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.dll
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.pdb
+D:\SoftUni\C# Advanced - 2021\C# Advanced - Exercises\Algorithms Introduction\SelectionSort-Algorithm\obj\Debug\netcoreapp3.1\SelectionSort-Algorithm.genruntimeconfig.cache
