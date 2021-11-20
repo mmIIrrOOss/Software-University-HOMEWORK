@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\bin\Debug\netcoreapp3.1\03.StudentSystem.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\03.StudentSystem\obj\Debug\netcoreapp3.1\03.StudentSystem.genruntimeconfig.cache

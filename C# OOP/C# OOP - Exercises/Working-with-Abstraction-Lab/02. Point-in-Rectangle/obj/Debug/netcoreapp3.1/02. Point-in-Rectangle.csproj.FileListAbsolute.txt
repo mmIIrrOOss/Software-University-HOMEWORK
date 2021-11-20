@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\bin\Debug\netcoreapp3.1\02. Point-in-Rectangle.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\02. Point-in-Rectangle\obj\Debug\netcoreapp3.1\02. Point-in-Rectangle.genruntimeconfig.cache

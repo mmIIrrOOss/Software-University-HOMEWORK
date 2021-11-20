@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\bin\Debug\netcoreapp3.1\01.RhombusofStars.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction-Lab\01.RhombusofStars\obj\Debug\netcoreapp3.1\01.RhombusofStars.genruntimeconfig.cache
