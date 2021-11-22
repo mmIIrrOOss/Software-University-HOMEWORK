@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\bin\Debug\netcoreapp3.1\P02_CarsSalesman.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P02_CarsSalesman\obj\Debug\netcoreapp3.1\P02_CarsSalesman.genruntimeconfig.cache

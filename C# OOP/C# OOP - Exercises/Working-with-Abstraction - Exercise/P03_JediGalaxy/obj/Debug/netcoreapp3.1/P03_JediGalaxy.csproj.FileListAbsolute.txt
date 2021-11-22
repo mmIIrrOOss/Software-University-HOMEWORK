@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\bin\Debug\netcoreapp3.1\P03_JediGalaxy.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P03_JediGalaxy\obj\Debug\netcoreapp3.1\P03_JediGalaxy.genruntimeconfig.cache

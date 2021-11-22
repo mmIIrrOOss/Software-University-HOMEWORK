@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\bin\Debug\netcoreapp3.1\P01_RawData.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P01_RawData\obj\Debug\netcoreapp3.1\P01_RawData.genruntimeconfig.cache

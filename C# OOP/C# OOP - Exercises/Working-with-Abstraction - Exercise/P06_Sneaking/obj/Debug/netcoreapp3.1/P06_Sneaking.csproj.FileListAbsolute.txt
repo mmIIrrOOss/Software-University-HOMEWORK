@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.exe
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.deps.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\bin\Debug\netcoreapp3.1\P06_Sneaking.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.dll
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.pdb
+D:\Csharp-OOP-Basics-Demo\Working-with-Abstraction\P06_Sneaking\obj\Debug\netcoreapp3.1\P06_Sneaking.genruntimeconfig.cache
