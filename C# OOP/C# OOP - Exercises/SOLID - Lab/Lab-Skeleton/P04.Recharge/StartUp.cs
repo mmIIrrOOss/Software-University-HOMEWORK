@@ -1,12 +1,13 @@
-﻿using System;
-
-namespace P04.Recharge
+﻿namespace P04.Recharge
 {
-	class StartUp
-	{
-		static void Main()
-		{
-			
-		}
-	}
+    using System;
+    using Models;
+
+    class StartUp
+    {
+        static void Main()
+        {
+           
+        }
+    }
 }

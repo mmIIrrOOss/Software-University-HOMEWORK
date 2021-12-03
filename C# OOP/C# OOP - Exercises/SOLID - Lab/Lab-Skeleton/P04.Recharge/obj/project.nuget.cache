@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FtDO1wq/FLJrmjiBxJ7OV9c9h/XlsjkvGs6h+xZnZPbotooCWJH+Jims/l2oEbI9cG3JskjLJwosX5B0acy7iQ==",
+  "dgSpecHash": "rXRe/e8RjBkDKqYjPmOO5MtSM5UNzukq7+qO0Q6BrbJxWIOFD8Y3HJfGWthR9+xisNAgumcU986SRUuPpxx9vA==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\C# OOP - Exercises\\SOLID\\Lab-Skeleton\\P04.Recharge\\P04.Recharge.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\SOLID - Lab\\P04.Recharge\\P04.Recharge.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
