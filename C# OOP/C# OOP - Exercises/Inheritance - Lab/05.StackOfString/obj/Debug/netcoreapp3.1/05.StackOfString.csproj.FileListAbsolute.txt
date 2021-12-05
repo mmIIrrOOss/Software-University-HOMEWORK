@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.exe
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.deps.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.runtimeconfig.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.runtimeconfig.dev.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\bin\Debug\netcoreapp3.1\05.StackOfString.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.AssemblyInfo.cs
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.genruntimeconfig.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\05.StackOfString\obj\Debug\netcoreapp3.1\05.StackOfString.csproj.AssemblyReference.cache

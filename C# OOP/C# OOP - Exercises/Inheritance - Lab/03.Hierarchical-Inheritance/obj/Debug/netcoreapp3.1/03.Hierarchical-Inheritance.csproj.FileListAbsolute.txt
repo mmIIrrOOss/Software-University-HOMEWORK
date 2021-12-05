@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.exe
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.deps.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.runtimeconfig.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.runtimeconfig.dev.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\bin\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\03.Hierarchical-Inheritance\obj\Debug\netcoreapp3.1\03.Hierarchical-Inheritance.genruntimeconfig.cache

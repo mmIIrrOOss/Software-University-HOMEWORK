@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.exe
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.deps.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.runtimeconfig.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.runtimeconfig.dev.json
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\bin\Debug\netcoreapp3.1\01.Sungle Inheritance.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.AssemblyInfo.cs
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.dll
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.pdb
+C:\Users\User\source\repos\Csharp-OOP-Basics-Demo\Inheritance-Demo\obj\Debug\netcoreapp3.1\01.Sungle Inheritance.genruntimeconfig.cache
