@@ -1,0 +1,28 @@
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance - Exercises\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

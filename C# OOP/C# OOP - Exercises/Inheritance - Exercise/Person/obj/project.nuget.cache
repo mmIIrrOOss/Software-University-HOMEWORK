@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CBhG2IPIG10En7J0d/RcUiycrqRwYAjUeZGJGHEevOgkXX0gyrmNn7bYQpW3rKKpIF1gaJU0dJokCGPOVpT+eA==",
+  "dgSpecHash": "efp7R15/07xXt5bj5WJzNcgT8ZXtTnN9X37wi+VOehN8lHdt+72N1cSt8kdPHaRmNdROIz6Vla+Lro+cILM8tg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Person\\Person.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Person\\Person.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

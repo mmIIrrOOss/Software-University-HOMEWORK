@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CwOHl6JYLuv3uXURcugrGjrY/Ih3QotJ0OJI9NrNBDW6Ur+7NNDv7pqazp2Nv2dlV1G7N+3oSB0988TXmUqlEg==",
+  "dgSpecHash": "JRtLjJMIs18y8PoHlVvL8SZKsvuvAIA9RW02TdZ1kPS7lbItuGc5rFa5nJI4cmBcAtXoKUflSaC35fzcGYZMIg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\Animals.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\Animals.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

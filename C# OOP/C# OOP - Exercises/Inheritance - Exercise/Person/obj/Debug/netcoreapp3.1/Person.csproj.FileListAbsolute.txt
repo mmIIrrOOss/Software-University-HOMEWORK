@@ -1,13 +1,13 @@
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.exe
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.dll
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.dll
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
-D:\SoftUni\C# OOP\Inheritance - Exercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.exe
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\bin\Debug\netcoreapp3.1\Person.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.dll
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.pdb
+D:\Csharp-OOP-Basics-Demo\Inheritance-Exercises\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

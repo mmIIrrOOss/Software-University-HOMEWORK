@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zqGvrZwfZzelGy8XAU6/K4w2qGhpPS9Ch2PoXcYSVEigw94hv/xxN+EeVxmyeL2q9Md6xeqHEOwkrWRCtOxAew==",
+  "dgSpecHash": "tGL7qotSAdL3RHIPntDt5qlASxUpzQiLRCMWWBjIdY0Q/25YoQmLCeCpbZB7ZnMng9THPl8Qq+wetwsOuB7cZg==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\NeedForSpeed\\NeedForSpeed.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\NeedForSpeed\\NeedForSpeed.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

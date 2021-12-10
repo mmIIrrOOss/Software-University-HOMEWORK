@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\Animals.csproj": {}
+    "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\Animals.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\Animals.csproj": {
+    "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\Animals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\Animals.csproj",
+        "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\Animals.csproj",
         "projectName": "Animals",
-        "projectPath": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\Animals.csproj",
+        "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\Animals.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\C# OOP\\Inheritance - Exercise\\Animals\\obj\\",
+        "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Inheritance - Exercises\\Animals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
