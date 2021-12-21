@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.exe
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.deps.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\bin\Debug\netcoreapp3.1\03.ValidationData.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\03.ValidationData\obj\Debug\netcoreapp3.1\03.ValidationData.genruntimeconfig.cache

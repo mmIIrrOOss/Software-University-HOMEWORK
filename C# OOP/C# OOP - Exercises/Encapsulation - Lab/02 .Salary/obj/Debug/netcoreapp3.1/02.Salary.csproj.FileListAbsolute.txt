@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.exe
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.deps.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\bin\Debug\netcoreapp3.1\02.Salary.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\02.Salary\obj\Debug\netcoreapp3.1\02.Salary.genruntimeconfig.cache

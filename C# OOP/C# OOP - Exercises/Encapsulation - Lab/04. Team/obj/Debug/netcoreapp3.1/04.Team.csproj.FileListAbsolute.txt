@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.exe
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.deps.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\bin\Debug\netcoreapp3.1\04.Team.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\04.Team\obj\Debug\netcoreapp3.1\04.Team.genruntimeconfig.cache

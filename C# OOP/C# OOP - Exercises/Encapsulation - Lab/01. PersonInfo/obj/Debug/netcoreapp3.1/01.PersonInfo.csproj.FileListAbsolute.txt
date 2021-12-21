@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.exe
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.deps.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\bin\Debug\netcoreapp3.1\01.PersonInfo.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Lab\01.PersonInfo\obj\Debug\netcoreapp3.1\01.PersonInfo.genruntimeconfig.cache

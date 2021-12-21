@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\04.Team\\04.Team.csproj",
-      "projectName": "04.Team",
-      "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\04.Team\\04.Team.csproj",
+      "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\03.ValidationData\\03.ValidationData.csproj",
+      "projectName": "03.ValidationData",
+      "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\03.ValidationData\\03.ValidationData.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\04.Team\\obj\\",
+      "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Lab\\03.ValidationData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -23,10 +23,6 @@ namespace PersonsInfo
             get => this.salary;
             set
             {
-                if (value < 460)
-                {
-                    throw new ArgumentException("Salary cannot be less than 460 leva!");
-                }
                 this.salary = value;
             }
         }
@@ -35,10 +31,6 @@ namespace PersonsInfo
             get => this.firstName;
             set
             {
-                if (value.Length < 3)
-                {
-                    throw new ArgumentException("First name cannot contain fewer than 3 symbols!");
-                }
                 this.firstName = value;
             }
         }
@@ -47,10 +39,6 @@ namespace PersonsInfo
             get => this.lastName;
             set
             {
-                if (value.Length < 3)
-                {
-                    throw new ArgumentException("Last name cannot contain fewer than 3 symbols!");
-                }
                 this.lastName = value;
             }
         }
@@ -59,10 +47,6 @@ namespace PersonsInfo
             get => this.age;
             set
             {
-                if (value <= 0)
-                {
-                    throw new ArgumentException("Age cannot be zero or a negative integer!");
-                }
                 this.age = value;
             }
         }
@@ -74,7 +58,7 @@ namespace PersonsInfo
             }
             else
             {
-                this.Salary += this.Salary * (percentage / 100);
+                this.Salary += this.Salary * (percentage/100);
             }
         }
         public override string ToString()
