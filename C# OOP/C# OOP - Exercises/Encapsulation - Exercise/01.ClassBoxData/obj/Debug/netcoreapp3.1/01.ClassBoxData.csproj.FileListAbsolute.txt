@@ -1,13 +1,14 @@
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.exe
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.deps.json
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.json
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.dev.json
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.dll
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.pdb
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csprojAssemblyReference.cache
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfoInputs.cache
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfo.cs
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.CoreCompileInputs.cache
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.dll
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.pdb
-D:\SoftUni\C# OOP\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.exe
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.deps.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\bin\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.dll
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.pdb
+D:\Csharp-OOP-Basics-Demo\Encapsulation - Exercise\01.ClassBoxData\obj\Debug\netcoreapp3.1\01.ClassBoxData.genruntimeconfig.cache

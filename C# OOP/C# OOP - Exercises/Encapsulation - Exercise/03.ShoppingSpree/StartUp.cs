@@ -1,35 +1,34 @@
 ﻿
-namespace ShoppingSpree
-
+namespace _03.ShoppingSpree
 {
-	using System;
-	using System.Collections.Generic;
-	
-	public class StartUp
-	{
-		public static void Main()
-		{
+    using System;
+    using System.Collections.Generic;
+
+    class StartUp
+    {
+        static void Main()
+        {
 			Dictionary<string, Person> people = new Dictionary<string, Person>();
 			Dictionary<string, Product> products = new Dictionary<string, Product>();
-			
+
 			string inputPerson = Console.ReadLine();
 			string inputProduct = Console.ReadLine();
-			string[] splitPerson = inputPerson.Split(new char[] { ';' });
-			string[] splitProduct = inputProduct.Split(new char[] { ';' });
+			string[] splitPerson = inputPerson.Split(";");
+			string[] splitProduct = inputProduct.Split(';');
 			try
 			{
 				foreach (var item in splitPerson)
 				{
-					string[] tokens = item.Split('=');
+					string[] tokens = item.Split("=");
 					string name = tokens[0];
 					decimal money = decimal.Parse(tokens[1]);
 					Person person = new Person(name, money);
 					people[name] = person;
-					
+
 				}
 				foreach (var item in splitProduct)
 				{
-					string[] tokens = item.Split('=');
+					string[] tokens = item.Split("=");
 					string name = tokens[0];
 					decimal cost = decimal.Parse(tokens[1]);
 
@@ -77,5 +76,5 @@ namespace ShoppingSpree
 			}
 
 		}
-	}
+    }
 }

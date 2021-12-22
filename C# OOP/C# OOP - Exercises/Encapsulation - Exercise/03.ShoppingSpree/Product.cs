@@ -1,9 +1,8 @@
-﻿
-namespace ShoppingSpree
+﻿namespace _03.ShoppingSpree
 {
-	using System;
-	public class Product
-	{
+    using System;
+    public class Product
+    {
 		public Product(string name, decimal price)
 		{
 			this.Name = name;
@@ -14,7 +13,7 @@ namespace ShoppingSpree
 			get => name;
 			set
 			{
-				if (string.IsNullOrWhiteSpace(value)||string.IsNullOrEmpty(value))
+				if (string.IsNullOrWhiteSpace(value) || string.IsNullOrEmpty(value))
 				{
 					throw new ArgumentException("Name cannot be empty");
 
@@ -38,7 +37,6 @@ namespace ShoppingSpree
 
 		private string name;
 		private decimal cost;
-
 
 	}
 }

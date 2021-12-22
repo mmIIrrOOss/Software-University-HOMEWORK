@@ -1,12 +1,9 @@
-﻿
-
-namespace ShoppingSpree
+﻿namespace _03.ShoppingSpree
 {
-	using System;
-	using System.Collections.Generic;
-	public class Person
-	{
-
+    using System;
+    using System.Collections.Generic;
+    public class Person
+    {
 		public Person(string name, decimal money)
 		{
 			this.Name = name;
@@ -32,7 +29,7 @@ namespace ShoppingSpree
 			{
 				if (value < 0)
 				{
-					throw new ArgumentException("Money cannot be negative ");
+					throw new ArgumentException("Money cannot be negative");
 				}
 				this.money = value;
 			}
@@ -51,5 +48,6 @@ namespace ShoppingSpree
 		private string name;
 		private decimal money;
 		private List<string> products;
+
 	}
 }

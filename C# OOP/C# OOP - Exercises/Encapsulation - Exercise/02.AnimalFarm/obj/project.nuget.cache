@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B9lcE1nnqxT+Q+BsVSyLwktaTRe6njTqY0GWsGNEBVQEzmazK7V2FpM23iI8KvCNVX/8taocTNvpTpHRMgg+Dw==",
+  "dgSpecHash": "40yscIfewVZHAzB/hM12emHT11uGn1Yz9SKI71C2DHHedm3f7BTbVQ2ZLW3dnQSEj7qMRj7ID5kb0C2DTfr0ww==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\Encapsulation - Exercise\\02.AnimalFarm\\02.AnimalFarm.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Encapsulation - Exercise\\02.AnimalFarm\\02.AnimalFarm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
