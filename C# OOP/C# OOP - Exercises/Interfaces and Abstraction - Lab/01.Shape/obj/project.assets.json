@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\02.Cars\\02.Cars.csproj",
-      "projectName": "02.Cars",
-      "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\02.Cars\\02.Cars.csproj",
+      "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\01.Shape\\01.Shape.csproj",
+      "projectName": "01.Shape",
+      "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\01.Shape\\01.Shape.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\02.Cars\\obj\\",
+      "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Interfaces and Abstraction-Lab\\01.Shape\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

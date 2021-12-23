@@ -1,13 +1,14 @@
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csprojAssemblyReference.cache
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
-D:\SoftUni\C# OOP\Interfaces and Abstraction - Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.exe
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.deps.json
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.dll
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\bin\Debug\netcoreapp3.1\02.Cars.pdb
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.dll
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.pdb
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Interfaces and Abstraction-Lab\02.Cars\obj\Debug\netcoreapp3.1\02.Cars.csproj.AssemblyReference.cache
