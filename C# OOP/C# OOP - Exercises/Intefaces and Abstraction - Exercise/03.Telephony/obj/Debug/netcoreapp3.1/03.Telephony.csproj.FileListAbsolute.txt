@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\bin\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\03.Telephony\obj\Debug\netcoreapp3.1\03.Telephony.genruntimeconfig.cache

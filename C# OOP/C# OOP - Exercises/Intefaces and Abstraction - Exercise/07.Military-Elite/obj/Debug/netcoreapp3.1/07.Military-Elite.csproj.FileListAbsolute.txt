@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\bin\Debug\netcoreapp3.1\07.Military-Elite.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\07.Military-Elite\obj\Debug\netcoreapp3.1\07.Military-Elite.genruntimeconfig.cache

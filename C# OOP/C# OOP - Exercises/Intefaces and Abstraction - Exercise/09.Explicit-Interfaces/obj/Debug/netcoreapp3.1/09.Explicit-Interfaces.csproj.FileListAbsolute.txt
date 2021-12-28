@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\bin\Debug\netcoreapp3.1\09.Explicit-Interfaces.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\09.Explicit-Interfaces\obj\Debug\netcoreapp3.1\09.Explicit-Interfaces.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\bin\Debug\netcoreapp3.1\06.Food-Shortage.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\06.Food-Shortage\obj\Debug\netcoreapp3.1\06.Food-Shortage.csproj.AssemblyReference.cache

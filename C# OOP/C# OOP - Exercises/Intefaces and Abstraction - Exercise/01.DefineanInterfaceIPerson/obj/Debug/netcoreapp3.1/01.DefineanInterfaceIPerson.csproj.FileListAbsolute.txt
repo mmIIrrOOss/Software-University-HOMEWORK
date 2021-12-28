@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\bin\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\01.DefineanInterfaceIPerson\obj\Debug\netcoreapp3.1\01.DefineanInterfaceIPerson.genruntimeconfig.cache

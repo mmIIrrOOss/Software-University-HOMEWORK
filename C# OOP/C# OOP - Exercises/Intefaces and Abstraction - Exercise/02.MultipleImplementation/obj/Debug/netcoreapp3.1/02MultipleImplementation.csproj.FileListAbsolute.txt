@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.exe
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.deps.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\bin\Debug\netcoreapp3.1\02MultipleImplementation.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.dll
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.pdb
+D:\Csharp-OOP-Basics-Demo\Intefaces and Abstraction-Exercise\02MultipleImplementation\obj\Debug\netcoreapp3.1\02MultipleImplementation.genruntimeconfig.cache
