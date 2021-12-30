@@ -1,26 +1,23 @@
-﻿using System;
-
-namespace Shapes
+﻿namespace Shapes
 {
-	public class StartUp
-	{
-		static void Main()
-		{
-			Circle circle = new Circle(2);
-			double circleArea = circle.CalculateArea();
-			double circlePerimeter = circle.CalculatePerimeter();
+    using System;
+    using Models.Shapes;
 
-			Rectangle rectangle = new Rectangle(5, 6);
-			double rectArea = rectangle.CalculateArea();
-			double rectPerimeter = rectangle.CalculatePerimeter();
+    public class StartUp
+    {
+        static void Main(string[] args)
+        {
+            Rectangle rectangle = new Rectangle(2, 3);
+            Circle circle = new Circle(6);
 
-			Console.WriteLine(circle.Draw());
-			Console.WriteLine($"Circle area: {circleArea:f2}");
-			Console.WriteLine($"Circle perimeter: {circlePerimeter:f2}");
-			
-			Console.WriteLine(rectangle.Draw());
-			Console.WriteLine($"Rectangle area: {rectArea:f2}");
-			Console.WriteLine($"Rectangle primeter: {rectPerimeter:f2}");
-		}
-	}
+            Console.WriteLine(rectangle.Draw());
+            Console.WriteLine(rectangle.CalculateArea());
+            Console.WriteLine(rectangle.CalculatePerimeter());
+
+            Console.WriteLine(circle.Draw());
+            Console.WriteLine(circle.CalculateArea());
+            Console.WriteLine(circle.CalculatePerimeter());
+
+        }
+    }
 }

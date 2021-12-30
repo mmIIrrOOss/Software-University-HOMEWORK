@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\03.Shapes.csproj": {}
+    "D:\\Csharp-OOP-Basics-Demo\\Polymorphism-Lab\\03.Shapes\\03.Shapes.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\03.Shapes.csproj": {
+    "D:\\Csharp-OOP-Basics-Demo\\Polymorphism-Lab\\03.Shapes\\03.Shapes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\03.Shapes.csproj",
+        "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism-Lab\\03.Shapes\\03.Shapes.csproj",
         "projectName": "03.Shapes",
-        "projectPath": "D:\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\03.Shapes.csproj",
+        "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism-Lab\\03.Shapes\\03.Shapes.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\C# OOP\\Polymorphism - Lab\\03.Shapes\\obj\\",
+        "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism-Lab\\03.Shapes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

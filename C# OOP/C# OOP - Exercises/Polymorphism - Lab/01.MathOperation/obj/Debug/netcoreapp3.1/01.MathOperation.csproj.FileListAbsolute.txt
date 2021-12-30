@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.exe
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.deps.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.dll
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\bin\Debug\netcoreapp3.1\01.MathOperation.pdb
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.dll
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.pdb
+D:\Csharp-OOP-Basics-Demo\Polymorphism-Lab\01.MathOperation\obj\Debug\netcoreapp3.1\01.MathOperation.genruntimeconfig.cache
