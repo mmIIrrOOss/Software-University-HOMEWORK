@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5CTKUKfeer38UfV68hpeJDNLLHwFj2LSmjts5gLcTo2HnIavyaFdwvjCLQrZE7XkQQ5tB9/cJLAYgANk0cKydQ==",
+  "dgSpecHash": "CWEK+U+gVb0JJFl4K3Cs+a2yh2bLgUIQ1kN74GXj2LKjOO8g+VCQO49gU/jiTB67jVcjkIgyl8NyFUEHm7zYow==",
   "success": true,
-  "projectFilePath": "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

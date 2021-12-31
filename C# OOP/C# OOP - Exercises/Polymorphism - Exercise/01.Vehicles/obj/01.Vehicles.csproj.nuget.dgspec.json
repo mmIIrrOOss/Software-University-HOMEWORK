@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj": {}
+    "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj": {
+    "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
+        "projectUniqueName": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
         "projectName": "01.Vehicles",
-        "projectPath": "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
+        "projectPath": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\01.Vehicles.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\C# OOP\\Polymorphism - Exercise\\01.Vehicles\\obj\\",
+        "outputPath": "D:\\Csharp-OOP-Basics-Demo\\Polymorphism - Exercise\\01.Vehicles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

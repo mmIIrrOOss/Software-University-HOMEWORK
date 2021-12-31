@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.exe
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.deps.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.dll
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\bin\Debug\netcoreapp3.1\04.Wild Farm.pdb
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.dll
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.pdb
+D:\Csharp-OOP-Basics-Demo\Polymorphism - Exercise\04.Wild Farm\obj\Debug\netcoreapp3.1\04.Wild Farm.genruntimeconfig.cache
