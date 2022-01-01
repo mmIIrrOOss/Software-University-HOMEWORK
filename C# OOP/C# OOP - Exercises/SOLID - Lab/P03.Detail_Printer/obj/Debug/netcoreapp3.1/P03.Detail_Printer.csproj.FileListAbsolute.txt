@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.exe
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.deps.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\bin\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.dll
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.pdb
+D:\Csharp-OOP-Basics-Demo\SOLID - Lab\P03.Detail_Printer\obj\Debug\netcoreapp3.1\P03.Detail_Printer.genruntimeconfig.cache
