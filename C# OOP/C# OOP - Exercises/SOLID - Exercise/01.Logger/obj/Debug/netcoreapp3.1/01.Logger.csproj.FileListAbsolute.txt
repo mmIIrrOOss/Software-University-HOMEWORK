@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.exe
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.deps.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.dll
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\bin\Debug\netcoreapp3.1\01.Logger.pdb
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.dll
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.pdb
+D:\Csharp-OOP-Basics-Demo\SOLID - Exercise\01.Logger\obj\Debug\netcoreapp3.1\01.Logger.genruntimeconfig.cache
