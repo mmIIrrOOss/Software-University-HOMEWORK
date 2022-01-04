@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.exe
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.deps.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp3.1\02. High Quality Mistakes.genruntimeconfig.cache

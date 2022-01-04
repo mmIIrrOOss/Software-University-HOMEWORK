@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.exe
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.deps.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\bin\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\obj\Debug\netcoreapp3.1\AuthorProblem.genruntimeconfig.cache

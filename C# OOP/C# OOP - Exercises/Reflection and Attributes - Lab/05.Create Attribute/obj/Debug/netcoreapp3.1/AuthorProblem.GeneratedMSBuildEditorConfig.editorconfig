@@ -1,0 +1,4 @@
+is_global = true
+build_property.RootNamespace = AuthorProblem
+	
+build_property.ProjectDir = D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\05.Create Attribute\

@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.exe
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.deps.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\bin\Debug\netcoreapp3.1\04.Collector.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.dll
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.pdb
+D:\Csharp-OOP-Basics-Demo\Reflection and Attributes - Lab\04.Collector\obj\Debug\netcoreapp3.1\04.Collector.genruntimeconfig.cache
