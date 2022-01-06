@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.exe
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.deps.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\bin\Debug\netcoreapp3.1\01.Square Root.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\01.Square Root\obj\Debug\netcoreapp3.1\01.Square Root.genruntimeconfig.cache

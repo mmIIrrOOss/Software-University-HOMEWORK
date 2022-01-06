@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.exe
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.deps.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\bin\Debug\netcoreapp3.1\06.Valid Person.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\06.Valid Person\obj\Debug\netcoreapp3.1\06.Valid Person.genruntimeconfig.cache

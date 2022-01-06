@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.exe
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.deps.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\bin\Debug\netcoreapp3.1\04.Fixing Vol2.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.dll
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.pdb
+D:\Csharp-OOP-Basics-Demo\Exception Handling - Exercise\04.Fixing Vol2\obj\Debug\netcoreapp3.1\04.Fixing Vol2.genruntimeconfig.cache
