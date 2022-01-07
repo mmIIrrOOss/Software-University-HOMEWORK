@@ -2,6 +2,7 @@ namespace EgnHelper.Test
 {
     using System;
     using NUnit.Framework;
+    using EgnHelper.Models;
 
     [TestFixture]
     public class EgnValidatorTest

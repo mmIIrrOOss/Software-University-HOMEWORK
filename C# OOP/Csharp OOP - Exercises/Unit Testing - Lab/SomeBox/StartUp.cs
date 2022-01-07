@@ -1,18 +1,18 @@
 ﻿namespace SomeBox
 {
-    using EgnHelper;
     using System;
-
-    class StartUp
+    using EgnHelper.Models;
+    using EgnHelper.Enums;
+    class SatrtUp
     {
-        static void Main(string[] args)
+        public static void Main()
         {
-            ValidateFromUser(new EgnValidator());
-        }
-        public static void ValidateFromUser(IEgnValidator egnValidator)
-        {
-            string egn = Console.ReadLine();
-            Console.WriteLine("Valid: " + egnValidator.IsValid(egn));
+           
+            string egn = "8032056031";
+            var egnExtractor = new EgnInformationExtractor();
+            EgnInformation egnInformation = egnExtractor.Extract(egn);
+            Console.WriteLine(egnInformation);
+
         }
     }
 }

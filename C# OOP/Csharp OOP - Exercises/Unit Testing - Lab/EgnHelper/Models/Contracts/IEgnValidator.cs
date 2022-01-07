@@ -1,4 +1,4 @@
-﻿namespace EgnHelper
+﻿namespace EgnHelper.Models.Contracts
 {
     public interface IEgnValidator
     {

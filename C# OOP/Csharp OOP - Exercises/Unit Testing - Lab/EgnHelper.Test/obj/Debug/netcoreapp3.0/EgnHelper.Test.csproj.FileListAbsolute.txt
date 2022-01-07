@@ -99,3 +99,5 @@ D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\obj\Debug\netcoreapp
 D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\obj\Debug\netcoreapp3.0\EgnHelper.Test.dll
 D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\obj\Debug\netcoreapp3.0\EgnHelper.Test.pdb
 D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\obj\Debug\netcoreapp3.0\EgnHelper.Test.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\bin\Debug\netcoreapp3.0\Castle.Core.dll
+D:\Csharp-OOP-Basics-Demo\Unit Testing - Lab\EgnHelper.Test\bin\Debug\netcoreapp3.0\Moq.dll
