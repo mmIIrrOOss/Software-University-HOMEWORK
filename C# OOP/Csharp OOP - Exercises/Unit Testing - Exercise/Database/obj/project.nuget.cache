@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lFVQC1uGHSZIkYAZRiS0W+zODI/AqM3cfXDAlOh/5Dw0F1o3wrmoyvszxbveK7besDlvVVwrCq+hdbb3nzmkBA==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\Unit Testing - Exercise\\Database\\Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
