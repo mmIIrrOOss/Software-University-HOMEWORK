@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.exe
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.deps.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\bin\Debug\netcoreapp3.0\INStock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Lab\INStock - Skeleton\INStock\obj\Debug\netcoreapp3.0\INStock.csproj.AssemblyReference.cache
