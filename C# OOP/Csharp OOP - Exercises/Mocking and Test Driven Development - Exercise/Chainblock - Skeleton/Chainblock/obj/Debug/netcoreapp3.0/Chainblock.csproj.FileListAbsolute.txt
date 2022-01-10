@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.exe
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.deps.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp3.0\Chainblock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.genruntimeconfig.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp3.0\Chainblock.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.deps.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\bin\Debug\netcoreapp2.1\Chainblock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.dll
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.pdb
+D:\Csharp-OOP-Basics-Demo\Test Driven Development - Exercise\Chainblock - Skeleton\Chainblock\obj\Debug\netcoreapp2.1\Chainblock.genruntimeconfig.cache
