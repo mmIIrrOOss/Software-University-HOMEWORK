@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.exe
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.deps.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\bin\Debug\netcoreapp3.1\03.Template Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\03.Template Pattern\obj\Debug\netcoreapp3.1\03.Template Pattern.genruntimeconfig.cache

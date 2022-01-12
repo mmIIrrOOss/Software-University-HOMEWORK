@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.exe
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.deps.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\bin\Debug\netcoreapp3.1\0I. Prototype Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\0I. Prototype Pattern\obj\Debug\netcoreapp3.1\0I. Prototype Pattern.genruntimeconfig.cache

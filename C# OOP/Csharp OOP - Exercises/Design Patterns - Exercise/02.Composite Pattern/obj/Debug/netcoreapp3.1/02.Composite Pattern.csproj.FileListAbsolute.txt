@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.exe
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.deps.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\bin\Debug\netcoreapp3.1\02.Composite Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.dll
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.pdb
+D:\Csharp-OOP-Basics-Demo\Design Patterns - Exercise\02.Composite Pattern\obj\Debug\netcoreapp3.1\02.Composite Pattern.genruntimeconfig.cache
