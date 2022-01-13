@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.exe
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.deps.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.dll
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\bin\Debug\netcoreapp3.1\Dependency-Injection.pdb
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.dll
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.pdb
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - Dependency Injection\Dependency-Injection\obj\Debug\netcoreapp3.1\Dependency-Injection.genruntimeconfig.cache
