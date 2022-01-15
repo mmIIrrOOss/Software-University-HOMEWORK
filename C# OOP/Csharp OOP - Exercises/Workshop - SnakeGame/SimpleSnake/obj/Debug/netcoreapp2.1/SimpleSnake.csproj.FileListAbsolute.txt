@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\Csharp-OOP-Basics-Demo\Csharp OOP - Exercises\Workshop - SnakeGame\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
