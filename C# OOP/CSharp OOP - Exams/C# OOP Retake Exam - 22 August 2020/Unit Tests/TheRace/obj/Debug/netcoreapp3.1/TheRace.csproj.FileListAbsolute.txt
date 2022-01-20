@@ -1,0 +1,10 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\bin\Debug\netcoreapp3.1\TheRace.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\UnitTests-TheRace\TheRace\obj\Debug\netcoreapp3.1\TheRace.pdb

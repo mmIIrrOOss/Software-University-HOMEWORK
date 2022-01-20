@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\bin\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\EasterRaces\EasterRaces\obj\Debug\netcoreapp3.1\EasterRaces.genruntimeconfig.cache
