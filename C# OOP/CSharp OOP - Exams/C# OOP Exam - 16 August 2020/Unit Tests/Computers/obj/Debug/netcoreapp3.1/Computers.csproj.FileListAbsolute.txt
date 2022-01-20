@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\bin\Debug\netcoreapp3.1\Computers.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Computers-Skeleton\Computers\obj\Debug\netcoreapp3.1\Computers.genruntimeconfig.cache

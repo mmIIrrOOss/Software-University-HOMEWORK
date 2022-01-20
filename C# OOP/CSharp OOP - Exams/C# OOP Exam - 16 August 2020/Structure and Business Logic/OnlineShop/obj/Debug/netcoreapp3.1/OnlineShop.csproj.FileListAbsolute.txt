@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\bin\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\OnlineShop-Skeleton\OnlineShop\obj\Debug\netcoreapp3.1\OnlineShop.genruntimeconfig.cache
