@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\bin\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\WarCroft\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
