@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hfa2odx11Mrx03cK6IkgUNYyGzIkCC2Vz8jQXcEhG5Tc7hkhvR1Em4D3sAOcd+IOk0QkHvnB6YySvW7rUGhG+g==",
+  "success": true,
+  "projectFilePath": "D:\\Csharp-OOP-Basics-Demo\\CSharp-OOP-Exams\\Aquariums\\Aquariums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

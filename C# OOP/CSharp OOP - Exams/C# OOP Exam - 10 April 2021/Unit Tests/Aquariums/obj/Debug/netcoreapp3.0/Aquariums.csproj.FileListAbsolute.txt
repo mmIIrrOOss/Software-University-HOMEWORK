@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\bin\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Aquariums\obj\Debug\netcoreapp3.0\Aquariums.genruntimeconfig.cache

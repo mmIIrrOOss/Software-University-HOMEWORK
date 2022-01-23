@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\bin\Debug\netcoreapp3.0\AquaShop.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\AquaShop\obj\Debug\netcoreapp3.0\AquaShop.genruntimeconfig.cache
