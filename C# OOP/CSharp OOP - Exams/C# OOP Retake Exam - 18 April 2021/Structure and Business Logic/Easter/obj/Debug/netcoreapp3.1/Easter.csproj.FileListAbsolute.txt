@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\bin\Debug\netcoreapp3.1\Easter.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Easter\obj\Debug\netcoreapp3.1\Easter.genruntimeconfig.cache

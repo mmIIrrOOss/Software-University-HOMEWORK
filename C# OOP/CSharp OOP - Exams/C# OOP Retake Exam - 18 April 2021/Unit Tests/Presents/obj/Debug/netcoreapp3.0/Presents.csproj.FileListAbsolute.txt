@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\bin\Debug\netcoreapp3.0\Presents.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Presents\obj\Debug\netcoreapp3.0\Presents.genruntimeconfig.cache
