@@ -1,0 +1,13 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\bin\Debug\netcoreapp3.0\Robots.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Robots\obj\Debug\netcoreapp3.0\Robots.genruntimeconfig.cache
