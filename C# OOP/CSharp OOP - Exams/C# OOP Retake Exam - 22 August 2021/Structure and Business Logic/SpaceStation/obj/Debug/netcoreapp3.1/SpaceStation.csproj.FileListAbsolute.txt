@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\bin\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\SpaceStation\obj\Debug\netcoreapp3.1\SpaceStation.genruntimeconfig.cache
