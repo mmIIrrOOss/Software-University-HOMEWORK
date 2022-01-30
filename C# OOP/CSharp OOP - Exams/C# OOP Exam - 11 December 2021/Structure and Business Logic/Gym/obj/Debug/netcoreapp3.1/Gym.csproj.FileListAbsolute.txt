@@ -1,0 +1,14 @@
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.exe
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.deps.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.runtimeconfig.dev.json
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\bin\Debug\netcoreapp3.1\Gym.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.AssemblyReference.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfoInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.AssemblyInfo.cs
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.csproj.CoreCompileInputs.cache
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.dll
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.pdb
+D:\Csharp-OOP-Basics-Demo\CSharp-OOP-Exams\Gym\obj\Debug\netcoreapp3.1\Gym.genruntimeconfig.cache
