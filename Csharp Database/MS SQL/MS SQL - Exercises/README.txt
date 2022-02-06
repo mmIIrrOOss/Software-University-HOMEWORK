@@ -1,0 +1,1 @@
+This repository contains exercises related to the Csharp Database course
