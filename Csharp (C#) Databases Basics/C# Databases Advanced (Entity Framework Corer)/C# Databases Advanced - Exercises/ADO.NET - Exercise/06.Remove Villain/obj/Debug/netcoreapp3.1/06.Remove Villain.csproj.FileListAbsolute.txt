@@ -1,0 +1,21 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.exe
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.deps.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.runtimeconfig.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.runtimeconfig.dev.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\06.Remove Villain.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.csproj.CopyComplete
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ADO.NET - Exercise\06.Remove Villain\obj\Debug\netcoreapp3.1\06.Remove Villain.genruntimeconfig.cache
