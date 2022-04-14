@@ -1,0 +1,10 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\bin\Debug\netcoreapp3.1\MiniORM.deps.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\bin\Debug\netcoreapp3.1\MiniORM.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\bin\Debug\netcoreapp3.1\MiniORM.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework)\C# Databases Advanced - Exercises\ORM Fundamentals - Exercises\MiniORM\obj\Debug\netcoreapp3.1\MiniORM.pdb
