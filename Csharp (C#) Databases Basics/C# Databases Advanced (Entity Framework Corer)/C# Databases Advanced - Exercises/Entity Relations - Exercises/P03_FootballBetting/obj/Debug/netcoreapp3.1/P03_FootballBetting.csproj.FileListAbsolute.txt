@@ -1,0 +1,88 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.exe
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.deps.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.runtimeconfig.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.runtimeconfig.dev.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.CopyComplete
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\Entity Relations - Exercises\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.genruntimeconfig.cache
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.exe
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.deps.json
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.runtimeconfig.json
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.runtimeconfig.dev.json
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\P03_FootballBetting.pdb
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.AssemblyReference.cache
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.GeneratedMSBuildEditorConfig.editorconfig
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfoInputs.cache
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.AssemblyInfo.cs
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.csproj.CopyComplete
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.dll
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.pdb
+D:\P03_FootballBetting\obj\Debug\netcoreapp3.1\P03_FootballBetting.genruntimeconfig.cache
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\P03_FootballBetting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
