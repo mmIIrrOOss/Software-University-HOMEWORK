@@ -1,0 +1,13 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
