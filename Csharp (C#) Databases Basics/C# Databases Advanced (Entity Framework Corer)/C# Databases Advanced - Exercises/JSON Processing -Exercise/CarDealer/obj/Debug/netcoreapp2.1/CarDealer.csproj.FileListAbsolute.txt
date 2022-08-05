@@ -1,0 +1,13 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\JSON Processing -Exercise\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.genruntimeconfig.cache
