@@ -1,18 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Xml.Serialization;
+﻿using System.Xml.Serialization;
 
 namespace CarDealer.DTO.Import
 {
-    [XmlType]
+    [XmlType("Supplier")]
     public class SupplierImportDto
     {
         [XmlElement("name")]
         public string Name { get; set; }
 
-        [XmlElement("is Importer")]
+        [XmlElement("isImporter")]
         public bool IsImporter { get; set; }
-
     }
 }

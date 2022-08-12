@@ -1,9 +1,4 @@
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\CarDealer.exe
-D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\cars.xml
-D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\customers.xml
-D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\parts.xml
-D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\sales.xml
-D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\suppliers.xml
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\CarDealer.deps.json
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\CarDealer.runtimeconfig.json
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\CarDealer.runtimeconfig.dev.json
@@ -53,3 +48,8 @@ D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C#
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\obj\Debug\netcoreapp3.1\CarDealer.dll
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\obj\Debug\netcoreapp3.1\CarDealer.pdb
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\obj\Debug\netcoreapp3.1\CarDealer.genruntimeconfig.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\Import\cars.xml
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\Import\customers.xml
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\Import\parts.xml
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\Import\sales.xml
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exercises\XML Processing - Exercise\CarDealer\bin\Debug\netcoreapp3.1\Datasets\Import\suppliers.xml
