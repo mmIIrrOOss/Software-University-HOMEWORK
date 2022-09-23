@@ -2,10 +2,10 @@
 using RealEstates.Services;
 
 using System;
-using System.Text;
 using System.IO;
 using System.Text.Json;
 using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 
 namespace RealEstates.Importer
 {
@@ -13,15 +13,17 @@ namespace RealEstates.Importer
     {
         static void Main(string[] args)
         {
+           //var context = new ApplicationDbContext();
+           //context.Database.EnsureCreated();
 
-            ImportJsonFile("../../../houses-Sofia-data.json");
+            ImportJsonFile("houses-Sofia-data.json");
 
             Console.WriteLine(); 
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
 
-            ImportJsonFile("../../../imot.bg-raw-data");
+            ImportJsonFile("imot.bg-raw-data");
 
 
         }
@@ -32,7 +34,7 @@ namespace RealEstates.Importer
 
             var properties = JsonSerializer.Deserialize<IEnumerable<PropertyAsJson>>
                 (File.ReadAllText(fileName));
-
+            int counterProgress = 0;
             foreach (var jsonProp in properties)
             {
 
@@ -47,8 +49,8 @@ namespace RealEstates.Importer
                         jsonProp.Year,
                         jsonProp.Type,
                         jsonProp.BuildingType);
-
-                Console.Write(".");
+                counterProgress++;
+                Console.WriteLine(counterProgress);
             }
         }
     }

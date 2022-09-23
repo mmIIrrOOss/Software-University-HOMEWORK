@@ -29,8 +29,8 @@ namespace RealEstates.Services
                 Year = year <= 1000 ? null : year
             };
 
-            //var dbDistrict = dbContext.Districts.FirstOrDefault(x => x.Name == district);
-            District dbDistrict = null;
+            var dbDistrict = dbContext.Districts.FirstOrDefault(x => x.Name == district);
+            //District dbDistrict = null;
             foreach (var currentDistrict in dbContext.Districts)
             {
                 if (currentDistrict.Name == district)

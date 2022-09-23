@@ -5792,11 +5792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+      "projectUniqueName": "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
       "projectName": "RealEstates.Importer",
-      "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+      "projectPath": "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\obj\\",
+      "outputPath": "D:\\RealEstates\\RealEstates.Importer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5813,11 +5813,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
-              "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
+            "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
+              "projectPath": "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
             },
-            "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
-              "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj"
+            "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
+              "projectPath": "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj"
             }
           }
         }

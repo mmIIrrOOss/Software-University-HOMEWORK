@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {}
+    "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {}
   },
   "projects": {
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
+    "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj",
+        "projectUniqueName": "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj",
         "projectName": "RealEstases.Data",
-        "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj",
+        "projectPath": "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\obj\\",
+        "outputPath": "D:\\RealEstates\\RealEstases.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
-                "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj"
+              "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
+                "projectPath": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
+    "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
+        "projectUniqueName": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
         "projectName": "RealEstases.Models",
-        "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
+        "projectPath": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\obj\\",
+        "outputPath": "D:\\RealEstates\\RealEstases.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,14 +128,14 @@
         }
       }
     },
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {
+    "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+        "projectUniqueName": "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
         "projectName": "RealEstates.Importer",
-        "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
+        "projectPath": "D:\\RealEstates\\RealEstates.Importer\\RealEstates.Importer.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Importer\\obj\\",
+        "outputPath": "D:\\RealEstates\\RealEstates.Importer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -152,11 +152,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
-                "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
+              "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
+                "projectPath": "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
               },
-              "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
-                "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj"
+              "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
+                "projectPath": "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj"
               }
             }
           }
@@ -195,14 +195,14 @@
         }
       }
     },
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
+    "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
+        "projectUniqueName": "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
         "projectName": "RealEstates.Services",
-        "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
+        "projectPath": "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\obj\\",
+        "outputPath": "D:\\RealEstates\\RealEstates.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -219,11 +219,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
-                "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
+              "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj": {
+                "projectPath": "D:\\RealEstates\\RealEstases.Data\\RealEstases.Data.csproj"
               },
-              "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
-                "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj"
+              "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
+                "projectPath": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj"
               }
             }
           }

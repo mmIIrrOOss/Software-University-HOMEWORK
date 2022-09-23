@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Ut0sr5QSM99TcheAuZ3GaUZ/hLuLNR9l20sMH+jt+V9lGku+M5Zfnr/bZoJPBFTy/6cHJ7NIRzXv4tzy6EoTw==",
+  "dgSpecHash": "ljLa2wjsHQlXbBiCi/n58xhukfGcltaD83N/6P7AIzmNYrBSXUVMO5ZkbUWTJUaCj1+vV3gw5eWn/oY7JifXgg==",
   "success": true,
-  "projectFilePath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
+  "projectFilePath": "D:\\RealEstates\\RealEstates.Services\\RealEstates.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

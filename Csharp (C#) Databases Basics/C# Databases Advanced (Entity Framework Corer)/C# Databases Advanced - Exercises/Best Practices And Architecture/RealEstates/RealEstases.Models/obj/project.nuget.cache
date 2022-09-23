@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w11m0v5nqkJkVifJ8cInmkTw1E4C0CtAZIBxvftJ+r5zDP9fzEcdtq04Cn0JB93Kyl0JaC1nJs9gfxLFuARJ8w==",
+  "dgSpecHash": "jD6ejUWM62hsKQ0VEi/IKOgM51zbZQGil8LrChGmW5f+C2b0+44ktu6FoMtBY8+dIx/3+Rz0Wdhin0lm9ZCHNA==",
   "success": true,
-  "projectFilePath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
+  "projectFilePath": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

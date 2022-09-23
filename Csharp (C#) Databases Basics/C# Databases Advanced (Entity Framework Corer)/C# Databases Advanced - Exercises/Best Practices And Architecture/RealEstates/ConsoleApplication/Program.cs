@@ -23,10 +23,11 @@ namespace ConsoleApplication
                 Console.WriteLine("1.Property Search");
                 Console.WriteLine("2.Most Expensive districts");
                 Console.WriteLine("3.Average price per square meter");
+                Console.WriteLine("4.Add tag ");
                 Console.WriteLine("0.EXIT");
 
                 bool parsed = int.TryParse(Console.ReadLine(), out int option);
-                if (parsed && option >= 1 && option <= 3)
+                if (parsed && option >= 1 && option <= 4)
                 {
                     switch (option)
                     {
@@ -39,6 +40,9 @@ namespace ConsoleApplication
                         case 3:
                             AveragePricePerSquareMeter(dbContex);
                             break;
+                        case 4:
+                            AddTag(dbContex);
+                            break;
                         case 0:
                             Environment.Exit(0);
                             break;
@@ -48,6 +52,20 @@ namespace ConsoleApplication
                 }
 
             }
+        }
+
+        private static void AddTag(ApplicationDbContext dbContext)
+        {
+            Console.WriteLine("Tag name:");
+            string tagName = Console.ReadLine();
+
+            Console.WriteLine("Importance (optional):");
+            bool iSImportance = int.TryParse(Console.ReadLine(), out int tagImportance);
+            int? importance = iSImportance ? tagImportance : null;
+
+            ITagService tagService = new TagService(dbContext);
+            tagService.Add(tagName, importance);
+
         }
 
         private static void AveragePricePerSquareMeter(ApplicationDbContext dbContext)

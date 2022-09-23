@@ -10,3 +10,15 @@ D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\Re
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\RealEstates\RealEstases.Models\obj\Debug\net5.0\ref\RealEstases.Models.dll
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.pdb
 D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.csproj.AssemblyReference.cache
+D:\RealEstates\RealEstases.Models\bin\Debug\net5.0\RealEstases.Models.deps.json
+D:\RealEstates\RealEstases.Models\bin\Debug\net5.0\RealEstases.Models.dll
+D:\RealEstates\RealEstases.Models\bin\Debug\net5.0\ref\RealEstases.Models.dll
+D:\RealEstates\RealEstases.Models\bin\Debug\net5.0\RealEstases.Models.pdb
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.csproj.AssemblyReference.cache
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.AssemblyInfoInputs.cache
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.AssemblyInfo.cs
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.csproj.CoreCompileInputs.cache
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.dll
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\ref\RealEstases.Models.dll
+D:\RealEstates\RealEstases.Models\obj\Debug\net5.0\RealEstases.Models.pdb

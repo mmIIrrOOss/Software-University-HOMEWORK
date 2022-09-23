@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {}
+    "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {}
   },
   "projects": {
-    "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
+    "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
+        "projectUniqueName": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
         "projectName": "RealEstases.Models",
-        "projectPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
+        "projectPath": "D:\\RealEstates\\RealEstases.Models\\RealEstases.Models.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp (C#) Databases Basics\\C# Databases Advanced (Entity Framework Core)\\RealEstates\\RealEstases.Models\\obj\\",
+        "outputPath": "D:\\RealEstates\\RealEstases.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
