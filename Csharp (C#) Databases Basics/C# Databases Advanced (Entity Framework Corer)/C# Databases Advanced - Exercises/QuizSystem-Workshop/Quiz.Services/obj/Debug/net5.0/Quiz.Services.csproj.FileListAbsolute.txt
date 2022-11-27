@@ -1,0 +1,12 @@
+D:\QuizSystem-Workshop\Quiz.Services\bin\Debug\net5.0\Quiz.Services.deps.json
+D:\QuizSystem-Workshop\Quiz.Services\bin\Debug\net5.0\Quiz.Services.dll
+D:\QuizSystem-Workshop\Quiz.Services\bin\Debug\net5.0\ref\Quiz.Services.dll
+D:\QuizSystem-Workshop\Quiz.Services\bin\Debug\net5.0\Quiz.Services.pdb
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.csproj.AssemblyReference.cache
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.AssemblyInfoInputs.cache
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.AssemblyInfo.cs
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.csproj.CoreCompileInputs.cache
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.dll
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\ref\Quiz.Services.dll
+D:\QuizSystem-Workshop\Quiz.Services\obj\Debug\net5.0\Quiz.Services.pdb
