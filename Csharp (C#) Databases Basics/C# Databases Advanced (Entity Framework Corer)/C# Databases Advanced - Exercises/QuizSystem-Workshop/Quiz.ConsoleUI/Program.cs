@@ -20,27 +20,8 @@ namespace Quiz.ConsoleUI
             ConfigureServices(serviceCollection);
             var serviceProvider = serviceCollection.BuildServiceProvider();
 
-
-            var json = File.ReadAllText("EF-Core-Quiz.json");
-            var questions = JsonConvert.DeserializeObject<IEnumerable<JsonQuestion>>(json);
-
-            var quizService = serviceProvider.GetService<IQuizService>();
-
-            var questionService = serviceProvider.GetService<IQuestionService>();
-
-            var answerService = serviceProvider.GetService<IAnswerService>();
-
-            var quizId = quizService.Add("EF Core Test");
-
-            foreach (var question in questions)
-            {
-                var questionId = questionService.Add(question.Question, quizId);
-                foreach (var answer in question.Answers)
-                {
-                    answerService.Add(answer.Answer, answer.Correct ? 1 : 0,
-                        answer.Correct, questionId);
-                }
-            }
+            var jsonImporter = serviceProvider.GetService<IJsonImportService>();
+            jsonImporter.Import("EF-Core-Quiz.json", "EF Core Test v2");
 
             //var questionService = serviceProvider.GetService<IQuestionService>();
             //questionService.Add("1+1", 1);
@@ -104,6 +85,7 @@ namespace Quiz.ConsoleUI
             services.AddTransient<IQuestionService, QuestionService>();
             services.AddTransient<IAnswerService, AnswerService>();
             services.AddTransient<IUserAnswerService, UserAnswerService>();
+            services.AddTransient<IJsonImportService, JsonImportService>();
         }
 
     }

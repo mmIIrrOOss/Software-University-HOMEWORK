@@ -87,3 +87,5 @@ D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Data.dll
 D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Models.dll
 D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Data.pdb
 D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Models.pdb
+D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Services.dll
+D:\QuizSystem-Workshop\Quiz.Web\bin\Debug\net5.0\Quiz.Services.pdb

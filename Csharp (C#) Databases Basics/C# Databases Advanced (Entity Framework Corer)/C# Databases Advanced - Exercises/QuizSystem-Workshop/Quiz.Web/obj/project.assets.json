@@ -5,7 +5,7 @@
       "Humanizer.Core/2.8.26": {
         "type": "package",
         "compile": {
-          "lib/netstandard2.0/Humanizer.dll": {}
+          "lib/netstandard2.0/_._": {}
         },
         "runtime": {
           "lib/netstandard2.0/Humanizer.dll": {}
@@ -208,7 +208,7 @@
           "Microsoft.EntityFrameworkCore.Relational": "5.0.17"
         },
         "compile": {
-          "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
+          "lib/netstandard2.1/_._": {}
         },
         "runtime": {
           "lib/netstandard2.1/Microsoft.EntityFrameworkCore.Design.dll": {}
@@ -1743,13 +1743,28 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17"
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "5.0.12",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.17",
+          "Microsoft.AspNetCore.Identity.UI": "5.0.17"
         },
         "compile": {
           "bin/placeholder/Quiz.Models.dll": {}
         },
         "runtime": {
           "bin/placeholder/Quiz.Models.dll": {}
+        }
+      },
+      "Quiz.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Quiz.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Quiz.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Quiz.Services.dll": {}
         }
       }
     }
@@ -6340,6 +6355,11 @@
       "type": "project",
       "path": "../Quiz.Models/Quiz.Models.csproj",
       "msbuildProject": "../Quiz.Models/Quiz.Models.csproj"
+    },
+    "Quiz.Services/1.0.0": {
+      "type": "project",
+      "path": "../Quiz.Services/Quiz.Services.csproj",
+      "msbuildProject": "../Quiz.Services/Quiz.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6349,7 +6369,8 @@
       "Microsoft.AspNetCore.Identity.UI >= 5.0.17",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.17",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.17",
-      "Quiz.Data >= 1.0.0"
+      "Quiz.Data >= 1.0.0",
+      "Quiz.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6358,9 +6379,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuizSystem-Workshop\\Quiz.Web\\Quiz.Webb.csproj",
-      "projectName": "Quiz.Webb",
-      "projectPath": "D:\\QuizSystem-Workshop\\Quiz.Web\\Quiz.Webb.csproj",
+      "projectUniqueName": "D:\\QuizSystem-Workshop\\Quiz.Web\\Quiz.Web.csproj",
+      "projectName": "Quiz.Web",
+      "projectPath": "D:\\QuizSystem-Workshop\\Quiz.Web\\Quiz.Web.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "D:\\QuizSystem-Workshop\\Quiz.Web\\obj\\",
       "projectStyle": "PackageReference",
@@ -6381,6 +6402,9 @@
           "projectReferences": {
             "D:\\QuizSystem-Workshop\\Quiz.Data\\Quiz.Data.csproj": {
               "projectPath": "D:\\QuizSystem-Workshop\\Quiz.Data\\Quiz.Data.csproj"
+            },
+            "D:\\QuizSystem-Workshop\\Quiz.Services\\Quiz.Services.csproj": {
+              "projectPath": "D:\\QuizSystem-Workshop\\Quiz.Services\\Quiz.Services.csproj"
             }
           }
         }
@@ -6412,6 +6436,8 @@
             "version": "[5.0.17, )"
           },
           "Microsoft.EntityFrameworkCore.Tools": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.17, )"
           }
@@ -6434,7 +6460,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
       }
     }
   }

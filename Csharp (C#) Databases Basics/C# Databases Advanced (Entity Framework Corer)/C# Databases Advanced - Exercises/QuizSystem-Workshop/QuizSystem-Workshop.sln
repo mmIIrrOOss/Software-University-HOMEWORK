@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32228.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz.Webb", "Quiz.Web\Quiz.Webb.csproj", "{41349287-22C4-408E-BA6B-E71EC8B74B7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz.Web", "Quiz.Web\Quiz.Web.csproj", "{41349287-22C4-408E-BA6B-E71EC8B74B7D}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz.Data", "Quiz.Data\Quiz.Data.csproj", "{40B3FE13-50E4-4204-A77A-37F67589081A}"
 EndProject

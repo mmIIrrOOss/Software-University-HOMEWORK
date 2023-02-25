@@ -39,6 +39,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.17",
           "Quiz.Data": "1.0.0",
+          "Quiz.Models": "1.0.0",
+          "Quiz.Services": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Cookies": "5.0.0.0",
@@ -1499,6 +1501,18 @@
         },
         "compile": {
           "Quiz.Models.dll": {}
+        }
+      },
+      "Quiz.Services/1.0.0": {
+        "dependencies": {
+          "Quiz.Data": "1.0.0",
+          "Quiz.Models": "1.0.0"
+        },
+        "runtime": {
+          "Quiz.Services.dll": {}
+        },
+        "compile": {
+          "Quiz.Services.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3948,6 +3962,11 @@
       "sha512": ""
     },
     "Quiz.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Quiz.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
