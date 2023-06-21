@@ -1,0 +1,121 @@
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.csproj.AssemblyReference.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.AssemblyInfoInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.AssemblyInfo.cs
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\AutoMapper.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Castle.Core.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\ref\VaporStore.dll
+D:\Csharp (C#) Databases Basics\C# Databases Advanced (Entity Framework Core)\C# Databases Advanced - Exams\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.csproj.AssemblyReference.cache
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.AssemblyInfoInputs.cache
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.AssemblyInfo.cs
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.csproj.CoreCompileInputs.cache
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\ref\VaporStore.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.exe
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.deps.json
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.runtimeconfig.json
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.runtimeconfig.dev.json
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\ref\VaporStore.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\VaporStore.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\AutoMapper.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Castle.Core.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Drawing.Common.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Security.Permissions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\System.Windows.Extensions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.csproj.CopyComplete
+D:\C# DB Advanced Exam - 08 August 2020\VaporStore\VaporStore\obj\Debug\net5.0\VaporStore.genruntimeconfig.cache
