@@ -1,1 +1,14 @@
-TODOO
+[
+  {
+    "Id": 2,
+    "Genre": "Violent",
+    "Games": [],
+    "TotalPlayers": 0
+  },
+  {
+    "Id": 5,
+    "Genre": "Nudity",
+    "Games": [],
+    "TotalPlayers": 0
+  }
+]

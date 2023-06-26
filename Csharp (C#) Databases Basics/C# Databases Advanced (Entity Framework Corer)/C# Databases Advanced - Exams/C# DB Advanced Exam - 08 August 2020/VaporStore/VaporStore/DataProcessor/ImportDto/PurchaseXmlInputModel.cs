@@ -33,6 +33,5 @@ namespace VaporStore.DataProcessor.ImportDto
         [Required]
         public string Date { get; set; }
 
-
     }
 }

@@ -103,10 +103,12 @@
         {
             var output = new StringBuilder();
 
-            var xmlSerializer = new XmlSerializer(typeof(PurchaseXmlInputModel[]),
+            var xmlSerializer = new XmlSerializer(
+                typeof(PurchaseXmlInputModel[]),
                 new XmlRootAttribute("Purchases"));
 
-            var purchases = (PurchaseXmlInputModel[])xmlSerializer
+            var purchases =
+                (PurchaseXmlInputModel[])xmlSerializer
                 .Deserialize(new StringReader(xmlString));
 
             foreach (var xmlPurchase in purchases)
@@ -120,7 +122,7 @@
                 bool parsedDate = DateTime.TryParseExact(xmlPurchase.Date,
                     "dd//MM/yyyy HH:mm", CultureInfo.InvariantCulture,
                     DateTimeStyles.None, out var date);
-
+                  
                 if (!parsedDate)
                 {
                     output.AppendLine("Invalid Data");
