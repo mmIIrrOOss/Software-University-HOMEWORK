@@ -1,0 +1,1 @@
+Here are the projects that were done outside the SoftUni courses.
