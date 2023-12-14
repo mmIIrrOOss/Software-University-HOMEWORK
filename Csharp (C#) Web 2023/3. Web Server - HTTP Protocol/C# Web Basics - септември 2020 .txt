@@ -1,0 +1,67 @@
+
+Resources
+Introduction to CSS - Antonia Atanasova
+Introduction to HTML - Antonia Atanasova
+Internet Explained - Nikolay Kostov
+Internet Explained - Presentation
+Bootstrap - Nikolay Kostov
+Bootstrap - Presntation
+Reflection - Nikolay Kostov
+C# Tips and Tricks - Nikolay Kostov 
+Git and GitHub - Ivaylo Papazov
+https://youtu.be/25Fj5iMRFIg
+https://youtu.be/TewMxkTddQk
+https://youtu.be/zqmNjdrKmdc
+https://youtu.be/iG2UBr2fAqg
+https://youtu.be/LkWis2vrUIE
+https://youtu.be/KrTMzYhpo3E
+https://youtu.be/n60kNS09ZDs
+
+Course Introduction
+https://youtu.be/ZKoTd78tbME
+
+Web Server - HTTP Protocol
+https://youtu.be/f0sqOnKwIMg
+Simple HTTP Server
+https://github.com/SoftUni/csharp-web/blob/036ac7a9981d592d9be29277e77a8517546b3d07/2020-Sept-Season/BasicHttpServer/HttpClientDemo/Program.cs
+
+How Browsers Work (Article)
+https://web.dev/howbrowserswork/
+
+Source Code - Link
+https://github.com/SoftUni/csharp-web/tree/master/2020-Jan-Season/HttpRequester
+
+Web Server - Asynchronous Processing
+https://youtu.be/6ibb0RHTO8k
+
+Web Server - State Management
+https://youtu.be/rGFb9OJXJpw
+
+Workshop
+https://youtu.be/YPiuv8sljlY
+Код от workshop-а
+https://github.com/SoftUni/csharp-web/tree/f8e05744bd5c48690eac0f127bfaf7a7cde3b230/2020-Sept-Season/SUS
+
+MVC Introduction
+https://github.com/SoftUni/csharp-web/tree/f8e05744bd5c48690eac0f127bfaf7a7cde3b230/2020-Sept-Season/SUS
+
+MVC Advanced - View Engine
+https://youtu.be/jy4owq-aR3g
+
+Consultation Day
+https://youtu.be/MTzJ0as3RBo
+
+Workshop
+https://youtu.be/Hri4BW3o6w8
+
+MVC Advanced - IoC and Data Binding
+https://youtu.be/DO_H4eLIwGA
+
+Workshop
+https://youtu.be/CItncWowEPY
+
+Exam Preparation
+https://youtu.be/qypRqBfxVeE
+
+Exam
+Retake

@@ -1,0 +1,7 @@
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.exe.config
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.exe
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\bin\Debug\BasicWebServer.pdb
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.csproj.AssemblyReference.cache
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.csproj.CoreCompileInputs.cache
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.exe
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\BasicWebServer\BasicWebServer\obj\Debug\BasicWebServer.pdb

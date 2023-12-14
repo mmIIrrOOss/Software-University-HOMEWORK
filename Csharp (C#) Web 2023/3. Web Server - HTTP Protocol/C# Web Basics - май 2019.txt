@@ -1,0 +1,68 @@
+C# Web Basics - Ï‡È 2019 
+
+Internet Explained - Nikolay Kostov
+https://youtu.be/zqmNjdrKmdc
+
+Introduction to HTML - Antonia Atanasova
+https://youtu.be/TewMxkTddQk
+
+Introduction to CSS - Antonia Atanasova
+https://youtu.be/25Fj5iMRFIg
+
+Course Introduction
+https://youtu.be/Io9oIHtVMBs
+
+Web Server - HTTP Protocol
+https://youtu.be/sEPWLyoaqU0
+
+Exercise: Web Server - HTTP ProtocÓl
+https://youtu.be/ndm_BcBDhXc
+
+Web Server - Asynchronous Processing
+https://youtu.be/tYPTPnxOg08
+
+Exercise: Web Server - Asynchronous Processing 
+https://youtu.be/8dsCtyoEc3g
+
+Web Server - State Management
+https://youtu.be/8ZeVDjpKcCs
+
+Exercise: Web Server - State Management - Using Cookies 
+https://youtu.be/lNuCFYQzl5A
+
+Workshop - Web Application. Advanced CSS - Bootstrap 
+https://youtu.be/iG2UBr2fAqg
+
+Workshop - Web Application. Advanced CSS - Bootstrap (Non-Attendance) 
+https://youtu.be/2hTqsx4lK2M
+
+MVC Introduction
+https://youtu.be/lSCfbx-mTao
+
+Exercise: MVC Introduction 
+https://youtu.be/PXbpCEEOF4o
+
+MVC Advanced - View Engine
+https://youtu.be/F5kuK80hWUM 
+
+Exercise: MVC Advanced - Part I 
+https://youtu.be/5cuA6FCVziE
+
+MVC Advanced - IoC and Data Binding
+https://youtu.be/4VuLS3xX6jI
+
+Exercise: MVC Advanced - Part II 
+https://youtu.be/4z4VckA3Kaw
+
+
+Authentication and Authorization 
+https://youtu.be/Uk5KInojtus
+
+Workshop 
+https://youtu.be/n1CAClGSnH8
+
+Exam Preparation 
+https://youtu.be/mDybpCS5exs
+
+Exam Preparation 
+https://youtu.be/re1l_8vEQj8
