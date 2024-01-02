@@ -18,7 +18,7 @@ namespace SIS.WebServer.Request
             this.QueryData = new Dictionary<string, object>();
             this.Headers = new HttpHeaderCollection();
 
-            
+            this.ParseRequest(requestString);
         }
 
         public string Path { get; private set; }
@@ -52,7 +52,7 @@ namespace SIS.WebServer.Request
         private void ParseRequestMethod(string[] requestString)
         {
             HttpRequestMethod method;
-            bool parseResult = HttpRequestMethod.TryParse(requestString[0], out method);
+            bool parseResult = HttpRequestMethod.TryParse(requestString[0],true, out method);
 
             if (!parseResult)
             {
@@ -90,7 +90,7 @@ namespace SIS.WebServer.Request
 
         private void ParseRequestQueryParameters()
         {
-            this.Url.Split('?')[1]
+            this.Url.Split(new[] { '?','#' })[1]
                 .Split('&')
                 .Select(qm => qm.Split('='))
                 .ToList()
@@ -131,11 +131,22 @@ namespace SIS.WebServer.Request
             this.ParseRequestUrl(requestLine);
             this.ParseRequestPath();
 
-            this.ParseHeaders(splitRequestContent.Skip(1).ToArray());
-            this.ParseCookies();
+            this.ParseRequestHeaders(this.ParsePlainRequstHeaders(requestString).AsEnumerable());
+            //this.ParseCookies();
 
             this.ParseRequestParameters(splitRequestContent[splitRequestContent.Length - 1]);
 
+        }
+
+        private IEnumerable<string> ParsePlainRequstHeaders(string[] requestLines)
+        {
+            for (int i = 1; i < requestLines.Length; i++)
+            {
+                if (!string.IsNullOrEmpty(requestLines[i]))
+                {
+                    yield return requestLines[i];
+                }
+            }
         }
     }
 }

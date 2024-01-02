@@ -1,0 +1,2 @@
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\SIS\SIS-HTTP\obj\Debug\SIS-HTTP.csproj.AssemblyReference.cache
+D:\Csharp (C#) Web 2023\3. Web Server - HTTP Protocol\SIS\SIS-HTTP\obj\Debug\SIS-HTTP.csproj.CoreCompileInputs.cache

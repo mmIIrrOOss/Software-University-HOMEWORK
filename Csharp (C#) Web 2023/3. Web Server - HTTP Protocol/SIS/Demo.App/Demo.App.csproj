@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7E5B241B-7A93-49F8-91B0-E817264AC3A8}</ProjectGuid>
+    <ProjectGuid>{58C30612-A923-4C34-9DD8-7F14C11EA11A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>SIS_HTTP</RootNamespace>
-    <AssemblyName>SIS-HTTP</AssemblyName>
+    <RootNamespace>Demo.App</RootNamespace>
+    <AssemblyName>Demo.App</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,24 +43,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConnectionHandler.cs" />
-    <Compile Include="Results\HtmlResult.cs" />
+    <Compile Include="HomeController.cs" />
+    <Compile Include="Launcher.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Results\RedirectResult.cs" />
-    <Compile Include="Routing\Contracts\IServerRoutingTable.cs" />
-    <Compile Include="Routing\ServerRoutingTable.cs" />
-    <Compile Include="Server.cs" />
-    <Compile Include="Results\TextResult.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\SIS-HTTP\SIS-HTTP.csproj">
+      <Project>{7e5b241b-7a93-49f8-91b0-e817264ac3a8}</Project>
+      <Name>SIS-HTTP</Name>
+    </ProjectReference>
     <ProjectReference Include="..\SIS.WebServer\SIS.WebServer.csproj">
       <Project>{D9C73CD8-95DA-4041-A51C-CD3CF98DB811}</Project>
       <Name>SIS.WebServer</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
